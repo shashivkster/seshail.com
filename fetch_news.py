@@ -1,0 +1,188 @@
+#!/usr/bin/env python3
+"""
+Daily technology-news crawler for seshail.com
+
+Reads the feeds listed in FEEDS, keeps the items most relevant to the
+practice areas, and writes news.json next to index.html.
+
+Only headline, source, link and publication date are stored. Article text is
+never copied — every item links back to the publisher.
+
+Run locally:   python3 scripts/fetch_news.py
+Run daily:     see .github/workflows/tech-news.yml
+
+Standard library only. No pip install required.
+"""
+
+import json
+import re
+import ssl
+import sys
+import urllib.request
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
+from xml.etree import ElementTree
+
+# --------------------------------------------------------------------------
+# Feeds. Add or remove freely — the format is (Display name, URL, default tag).
+# Verify each URL in a browser before relying on it; publishers move them.
+# --------------------------------------------------------------------------
+FEEDS = [
+    ("SAP News",        "https://news.sap.com/feed/",                              "Enterprise systems"),
+    ("CIO Dive",        "https://www.ciodive.com/feeds/news/",                     "CIO agenda"),
+    ("The Register",    "https://www.theregister.com/headlines.atom",              "Enterprise IT"),
+    ("Ars Technica",    "https://feeds.arstechnica.com/arstechnica/technology-lab","Technology"),
+    ("TechCrunch",      "https://techcrunch.com/feed/",                            "Technology"),
+    ("MIT Tech Review", "https://www.technologyreview.com/feed/",                  "Research"),
+    ("ET CIO",          "https://cio.economictimes.indiatimes.com/rss/topstories", "India"),
+    ("InfoQ",           "https://feed.infoq.com/",                                 "Architecture"),
+]
+
+# --------------------------------------------------------------------------
+# Relevance. Items scoring zero are dropped, so the page stays on-topic
+# rather than becoming a general tech firehose.
+# --------------------------------------------------------------------------
+KEYWORDS = {
+    "Enterprise systems": ["sap", "s/4hana", "erp", "oracle", "dynamics 365", "netsuite",
+                           "workday", "successfactors", "salesforce"],
+    "AI":                 ["artificial intelligence", " ai ", "genai", "llm", "copilot",
+                           "agentic", "machine learning"],
+    "Cloud":              ["cloud", "aws", "azure", "hyperscaler", "data centre", "data center",
+                           "kubernetes", "migration"],
+    "Cyber":              ["cyber", "ransomware", "breach", "vulnerability", "zero trust",
+                           "security", "phishing"],
+    "Sourcing":           ["outsourcing", "licensing", "licence", "license", "contract",
+                           "vendor", "procurement", "true-up", "audit"],
+    "Data":               ["data governance", "data quality", "master data", "analytics",
+                           "lakehouse", "data platform"],
+    "Delivery":           ["programme", "program management", "pmo", "implementation",
+                           "go-live", "transformation", "digital transformation"],
+    "India":              ["india", "indian", "rbi", "sebi", "gst", "digital india", "upi"],
+}
+
+MAX_ITEMS = 60
+MAX_AGE_DAYS = 10
+TIMEOUT = 25
+UA = "Mozilla/5.0 (compatible; seshailkamanna-news/1.0; +https://seshail.com)"
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA})
+    ctx = ssl.create_default_context()
+    with urllib.request.urlopen(req, timeout=TIMEOUT, context=ctx) as r:
+        return r.read()
+
+
+def strip_tags(text):
+    return re.sub(r"<[^>]+>", "", text or "").strip()
+
+
+def parse_date(raw):
+    if not raw:
+        return None
+    raw = raw.strip()
+    try:
+        d = parsedate_to_datetime(raw)
+        return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+    except Exception:
+        pass
+    for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%d"):
+        try:
+            d = datetime.strptime(raw.replace("Z", "+0000"), fmt)
+            return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+        except Exception:
+            continue
+    return None
+
+
+def first(el, *names):
+    """RSS and Atom disagree on element names; try each in turn."""
+    for n in names:
+        found = el.find(n)
+        if found is not None:
+            if n == "{http://www.w3.org/2005/Atom}link":
+                return found.get("href", "")
+            if found.text:
+                return found.text
+    return ""
+
+
+def classify(title):
+    """Score a headline. Returns (score, best_tag)."""
+    low = " " + title.lower() + " "
+    best, score = None, 0
+    for tag, words in KEYWORDS.items():
+        hits = sum(1 for w in words if w in low)
+        if hits > score:
+            best, score = tag, hits
+    return score, best
+
+
+def read_feed(name, url, default_tag):
+    try:
+        raw = fetch(url)
+    except Exception as e:
+        print(f"  ! {name}: {e}", file=sys.stderr)
+        return []
+
+    try:
+        root = ElementTree.fromstring(raw)
+    except ElementTree.ParseError as e:
+        print(f"  ! {name}: unparseable ({e})", file=sys.stderr)
+        return []
+
+    ATOM = "{http://www.w3.org/2005/Atom}"
+    entries = root.findall(".//item") or root.findall(f".//{ATOM}entry")
+    out = []
+    for e in entries:
+        title = strip_tags(first(e, "title", f"{ATOM}title"))
+        link = strip_tags(first(e, "link", f"{ATOM}link"))
+        when = parse_date(first(e, "pubDate", "published", f"{ATOM}published", f"{ATOM}updated"))
+        if not title or not link:
+            continue
+        if when and when < datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS):
+            continue
+        score, tag = classify(title)
+        if score == 0:
+            continue
+        out.append({
+            "title": title[:180],
+            "link": link,
+            "source": name,
+            "tag": tag or default_tag,
+            "score": score,
+            "date": (when or datetime.now(timezone.utc)).astimezone(timezone.utc).isoformat(),
+        })
+    print(f"  {name}: {len(out)} relevant of {len(entries)}")
+    return out
+
+
+def main():
+    print("Crawling feeds…")
+    items, seen = [], set()
+    for name, url, tag in FEEDS:
+        for it in read_feed(name, url, tag):
+            key = re.sub(r"\W+", "", it["title"].lower())[:70]
+            if key in seen:
+                continue
+            seen.add(key)
+            items.append(it)
+
+    items.sort(key=lambda i: (i["date"], i["score"]), reverse=True)
+    items = items[:MAX_ITEMS]
+
+    payload = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "count": len(items),
+        "tags": sorted({i["tag"] for i in items}),
+        "items": [{k: v for k, v in i.items() if k != "score"} for i in items],
+    }
+
+    with open("news.json", "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=1, ensure_ascii=False)
+
+    print(f"Wrote news.json — {len(items)} items across {len(payload['tags'])} tags.")
+
+
+if __name__ == "__main__":
+    main()
