@@ -1,8 +1,8 @@
 name: Build and deploy seshail.com
 
-# Runs on three triggers:
-#   push          — you edit the site, it redeploys
-#   schedule      — 01:30 UTC (07:00 IST) daily news refresh
+# Runs on three triggers, and crawls the news on all of them:
+#   push              — you edit the site
+#   schedule          — 01:30 UTC (07:00 IST) daily
 #   workflow_dispatch — the "Run workflow" button in the Actions tab
 on:
   push:
@@ -16,7 +16,6 @@ permissions:
   pages: write         # to publish
   id-token: write      # required by the deploy action
 
-# Never let two deploys run at once
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -37,27 +36,44 @@ jobs:
         with:
           python-version: '3.12'
 
-      # Crawl on the schedule and on manual runs. Skipped for ordinary pushes,
-      # so editing the site does not wait on eight network calls.
+      # Runs on every trigger. If it fails the step goes red, but the
+      # site still publishes — see the || true at the end.
       - name: Crawl technology news
-        if: github.event_name != 'push'
-        run: python3 scripts/fetch_news.py
-        continue-on-error: true
+        run: |
+          echo "=============================================="
+          echo "Crawling feeds"
+          echo "=============================================="
+          python3 scripts/fetch_news.py || echo "CRAWL FAILED — see errors above"
+          echo "=============================================="
+          echo "Result:"
+          python3 - <<'EOF'
+          import json
+          try:
+              d = json.load(open('news.json'))
+              print(f"  news.json now holds {d.get('count', 0)} stories")
+              print(f"  generated_at: {d.get('generated_at')}")
+              for i in d.get('items', [])[:5]:
+                  print(f"    - [{i['source']}] {i['title'][:70]}")
+              if d.get('count', 0) == 0:
+                  print("  WARNING: no stories were kept. Every feed either failed")
+                  print("  or returned nothing matching the keyword filter.")
+          except Exception as e:
+              print(f"  Could not read news.json: {e}")
+          EOF
+          echo "=============================================="
 
-      # Keep the refreshed file in the repository so it survives the next push.
       - name: Commit news.json if it changed
-        if: github.event_name != 'push'
         continue-on-error: true
         run: |
           git config user.name  "news-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain news.json)" ]; then
             git add news.json
-            git commit -m "Daily technology news refresh"
+            git commit -m "Technology news refresh [skip ci]"
             git push
-            echo "news.json updated and committed."
+            echo "news.json committed."
           else
-            echo "No change to news.json today."
+            echo "news.json unchanged."
           fi
 
       - name: Configure Pages
