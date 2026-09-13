@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-12T18:08:33.783864+00:00",
- "count": 53,
+ "generated_at": "2026-09-13T06:25:41.401297+00:00",
+ "count": 54,
  "tags": [
   "AI",
   "Cloud",
@@ -10,6 +10,20 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing",
+   "link": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-09-13T06:06:00+00:00"
+  },
+  {
+   "title": "Anthropic CEO outlines plan to slow AI development",
+   "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-09-12T19:34:44+00:00"
+  },
   {
    "title": "Revolut confirms customer data breach through fake government requests",
    "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
@@ -373,13 +387,6 @@
    "source": "ET CIO",
    "tag": "Cyber",
    "date": "2026-09-03T11:07:33+00:00"
-  },
-  {
-   "title": "I rented a car, and within hours, my driver's license was for sale",
-   "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-   "source": "Ars Technica",
-   "tag": "Sourcing",
-   "date": "2026-09-02T20:32:02+00:00"
   }
  ]
 }
