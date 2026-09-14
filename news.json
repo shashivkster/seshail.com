@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-13T06:25:41.401297+00:00",
- "count": 54,
+ "generated_at": "2026-09-14T06:35:43.650471+00:00",
+ "count": 55,
  "tags": [
   "AI",
   "Cloud",
@@ -11,7 +11,56 @@
  ],
  "items": [
   {
-   "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing",
+   "title": "AI and its main promoters are not enterprise-ready, says Gartner",
+   "link": "https://www.theregister.com/ai-and-ml/2026/09/14/ai-and-its-main-promoters-are-not-enterprise-ready-says-gartner/5296074",
+   "source": "The Register",
+   "tag": "Enterprise systems",
+   "date": "2026-09-14T05:11:19+00:00"
+  },
+  {
+   "title": "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’",
+   "link": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-09-14T01:15:16+00:00"
+  },
+  {
+   "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+   "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+   "source": "TechCrunch",
+   "tag": "Enterprise systems",
+   "date": "2026-09-13T20:49:38+00:00"
+  },
+  {
+   "title": "What’s behind the AI industry’s latest warnings of doom?",
+   "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-09-13T19:40:15+00:00"
+  },
+  {
+   "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+   "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-09-13T16:30:00+00:00"
+  },
+  {
+   "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+   "link": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/5296000",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-09-13T11:21:00+00:00"
+  },
+  {
+   "title": "Cloudflare Tests Cache Transcoding to Reduce Storage Requirements",
+   "link": "https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-09-13T10:35:00+00:00"
+  },
+  {
+   "title": "GitHub Copilot's Project HydraFusion Promises Frontier Level Performance through Multi-Model Routing",
    "link": "https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "AI",
@@ -116,13 +165,6 @@
    "date": "2026-09-11T14:27:00+00:00"
   },
   {
-   "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-   "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-   "source": "TechCrunch",
-   "tag": "Cyber",
-   "date": "2026-09-11T13:32:54+00:00"
-  },
-  {
    "title": "Terraform AWS Provider Continues Rapid Expansion as AWS Infrastructure Becomes More Complex",
    "link": "https://www.infoq.com/news/2026/09/terraform-aws-provider-6-62/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
@@ -137,7 +179,7 @@
    "date": "2026-09-11T11:34:41+00:00"
   },
   {
-   "title": "Presentation: How To Run on Three Clouds at Once, and When Not To",
+   "title": "Presentation: How to Run on Three Clouds at Once, and When Not to",
    "link": "https://www.infoq.com/presentations/form3-multicloud-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Cloud",
@@ -352,41 +394,6 @@
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-09-04T10:15:00+00:00"
-  },
-  {
-   "title": "AI cloud costs need engineering discipline: Enterprise leaders",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-cloud-costs-need-engineering-discipline-enterprise-leaders/133750051",
-   "source": "ET CIO",
-   "tag": "Enterprise systems",
-   "date": "2026-09-04T04:37:03+00:00"
-  },
-  {
-   "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
-   "link": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
-   "source": "Ars Technica",
-   "tag": "Cloud",
-   "date": "2026-09-03T18:58:31+00:00"
-  },
-  {
-   "title": "SAP Commerce Cloud and Vercel: A Faster Path to Better Customer Outcomes",
-   "link": "https://news.sap.com/2026/09/sap-commerce-cloud-vercel-faster-path-better-customer-outcomes/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-09-03T12:15:00+00:00"
-  },
-  {
-   "title": "Cloud ROI should be measured by growth and time-to-market: Enterprise leaders",
-   "link": "https://cio.economictimes.indiatimes.com/news/cloud-computing/cloud-roi-should-be-measured-by-growth-and-time-to-market-enterprise-leaders/133734360",
-   "source": "ET CIO",
-   "tag": "Enterprise systems",
-   "date": "2026-09-03T11:18:56+00:00"
-  },
-  {
-   "title": "AI-era zero trust mandate: Secure identities, inference and agent actions",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-era-zero-trust-mandate-secure-identities-inference-and-agent-actions/133734075",
-   "source": "ET CIO",
-   "tag": "Cyber",
-   "date": "2026-09-03T11:07:33+00:00"
   }
  ]
 }
