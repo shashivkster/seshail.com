@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T06:16:23.824128+00:00",
+ "generated_at": "2026-09-27T06:44:52.871759+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -10,6 +10,34 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-09-27T01:30:00+00:00"
+  },
+  {
+   "title": "Insurers claim AI is already increasing healthcare costs",
+   "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-09-26T21:02:06+00:00"
+  },
+  {
+   "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud",
+   "link": "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-09-26T17:00:00+00:00"
+  },
+  {
+   "title": "Cloudflare Details Its Migration from WordPress to EmDash",
+   "link": "https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-09-26T09:38:00+00:00"
+  },
   {
    "title": "Enterprise AI adoption remains limited as data, integration and governance pose challenges",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/enterprise-ai-adoption-remains-limited-as-data-integration-and-governance-pose-challenges/134495603",
@@ -60,32 +88,11 @@
    "date": "2026-09-25T16:16:52+00:00"
   },
   {
-   "title": "Meta’s AI Tamagotchi bet is…working?",
-   "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-09-25T16:00:00+00:00"
-  },
-  {
-   "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-   "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-   "source": "TechCrunch",
-   "tag": "Cyber",
-   "date": "2026-09-25T15:52:13+00:00"
-  },
-  {
    "title": "Office 2016 and 2019 holdouts blame update for license deactivation bug",
    "link": "https://www.theregister.com/software/2026/09/25/office-2016-and-2019-holdouts-blame-update-for-license-deactivation-bug/5299186",
    "source": "The Register",
    "tag": "Sourcing",
    "date": "2026-09-25T15:01:00+00:00"
-  },
-  {
-   "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-   "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-09-25T15:00:00+00:00"
   },
   {
    "title": "Home Made CobbleDB Replaces DynamoDB at Perplexity to Cut Query Latency 5x and Reduce Cloud Storage",
@@ -305,13 +312,6 @@
    "date": "2026-09-24T10:00:00+00:00"
   },
   {
-   "title": "Presentation: Designing Fast, Delightful UX With LLMs for Mobile Frontends",
-   "link": "https://www.infoq.com/presentations/llm-mobile-frontend/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-09-24T09:24:00+00:00"
-  },
-  {
    "title": "Experts question whether Salesforce demo breaches SAP API policy",
    "link": "https://www.theregister.com/saas/2026/09/24/experts-question-whether-salesforce-demo-breaches-sap-api-policy/5298606",
    "source": "The Register",
@@ -324,13 +324,6 @@
    "source": "The Register",
    "tag": "Cloud",
    "date": "2026-09-24T08:30:00+00:00"
-  },
-  {
-   "title": "India’s outsourced software industry grows 9.5 percent to reach $239 billion",
-   "link": "https://www.theregister.com/channel/2026/09/24/indias-outsourced-software-industry-grows-95-percent-to-reach-239-billion/5298721",
-   "source": "The Register",
-   "tag": "India",
-   "date": "2026-09-24T03:34:18+00:00"
   },
   {
    "title": "Employees report performative AI use amid role changes",
@@ -429,6 +422,13 @@
    "source": "ET CIO",
    "tag": "Enterprise systems",
    "date": "2026-09-22T02:30:00+00:00"
+  },
+  {
+   "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+   "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+   "source": "Ars Technica",
+   "tag": "AI",
+   "date": "2026-09-21T22:24:38+00:00"
   }
  ]
 }
