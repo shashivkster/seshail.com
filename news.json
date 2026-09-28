@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-27T06:44:52.871759+00:00",
+ "generated_at": "2026-09-28T07:09:42.483524+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -10,6 +10,34 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Linear Completes 1,000-PR Migration From styled-components to Meta's StyleX",
+   "link": "https://www.infoq.com/news/2026/09/linear-stylex-meta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-09-28T06:26:00+00:00"
+  },
+  {
+   "title": "AWS Introduces Foreign Key Constraints in Aurora DSQL",
+   "link": "https://www.infoq.com/news/2026/09/aurora-dsql-foreign-keys/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-09-28T04:54:00+00:00"
+  },
+  {
+   "title": "The enterprise needs autonomy, not more automation: Embracing independence for growth",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-enterprise-needs-autonomy-not-more-automation-embracing-independence-for-growth/134529689",
+   "source": "ET CIO",
+   "tag": "Enterprise systems",
+   "date": "2026-09-28T02:30:00+00:00"
+  },
+  {
+   "title": "Google Rewrites Critical C Dependencies to Rust Using AI and Differential Fuzzing",
+   "link": "https://www.infoq.com/news/2026/09/c-rust-rewrite/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-09-27T14:14:00+00:00"
+  },
   {
    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -25,7 +53,7 @@
    "date": "2026-09-26T21:02:06+00:00"
   },
   {
-   "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud",
+   "title": "Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction across Laptop and Cloud",
    "link": "https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Cloud",
@@ -74,20 +102,6 @@
    "date": "2026-09-25T19:13:20+00:00"
   },
   {
-   "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-   "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-09-25T18:33:59+00:00"
-  },
-  {
-   "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-   "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-09-25T16:16:52+00:00"
-  },
-  {
    "title": "Office 2016 and 2019 holdouts blame update for license deactivation bug",
    "link": "https://www.theregister.com/software/2026/09/25/office-2016-and-2019-holdouts-blame-update-for-license-deactivation-bug/5299186",
    "source": "The Register",
@@ -130,7 +144,7 @@
    "date": "2026-09-25T11:00:00+00:00"
   },
   {
-   "title": "Podcast: The Future of AI: From Enterprise Adoption to Open Source Sovereignty",
+   "title": "Podcast: The Future of AI: from Enterprise Adoption to Open Source Sovereignty",
    "link": "https://www.infoq.com/podcasts/enterprise-adoption-open-source-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Enterprise systems",
@@ -235,13 +249,6 @@
    "date": "2026-09-24T14:32:00+00:00"
   },
   {
-   "title": "Un-Mused: How a Single Debug Setting Bypassed macOS Security in Meta’s AI Client",
-   "link": "https://www.infoq.com/news/2026/09/meta-muse-zeroday/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-09-24T14:14:00+00:00"
-  },
-  {
    "title": "SAP Named a Leader in the 2026 IDC MarketScape for AI-Enabled Direct Spend",
    "link": "https://news.sap.com/2026/09/sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/",
    "source": "SAP News",
@@ -298,32 +305,11 @@
    "date": "2026-09-24T10:15:00+00:00"
   },
   {
-   "title": "For MariaDB, LLMs are the new search engines to win over",
-   "link": "https://www.theregister.com/databases/2026/09/24/for-mariadb-llms-are-the-new-search-engines-to-win-over/5298104",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-09-24T10:00:00+00:00"
-  },
-  {
    "title": "AI is dominating the conversation at Climate Week",
    "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
    "source": "MIT Tech Review",
    "tag": "AI",
    "date": "2026-09-24T10:00:00+00:00"
-  },
-  {
-   "title": "Experts question whether Salesforce demo breaches SAP API policy",
-   "link": "https://www.theregister.com/saas/2026/09/24/experts-question-whether-salesforce-demo-breaches-sap-api-policy/5298606",
-   "source": "The Register",
-   "tag": "Enterprise systems",
-   "date": "2026-09-24T09:15:00+00:00"
-  },
-  {
-   "title": "Government contractor exposed path to immigration records",
-   "link": "https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-09-24T08:30:00+00:00"
   },
   {
    "title": "Employees report performative AI use amid role changes",
@@ -429,6 +415,20 @@
    "source": "Ars Technica",
    "tag": "AI",
    "date": "2026-09-21T22:24:38+00:00"
+  },
+  {
+   "title": "100+ Leader Positions: SAP CX Dominates G2 Fall Grid Reports 2026",
+   "link": "https://news.sap.com/2026/09/sap-cx-dominates-g2-fall-grid-reports-2026/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-09-21T12:15:00+00:00"
+  },
+  {
+   "title": "India&#039;s AI agent sprawl: Enterprises struggle with production beyond pilot stages",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/indias-ai-agent-sprawl-enterprises-struggle-with-production-beyond-pilot-stages/134377914",
+   "source": "ET CIO",
+   "tag": "Enterprise systems",
+   "date": "2026-09-21T02:30:00+00:00"
   }
  ]
 }
