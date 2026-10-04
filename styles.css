@@ -852,3 +852,41 @@ footer{background:linear-gradient(180deg,var(--ink) 0%,var(--ink-deep) 100%)}
   font-size:.86rem;color:var(--muted);line-height:1.6;max-width:60ch;
   border-left:2px solid var(--bronze);padding:.6rem 0 .6rem 1.1rem;margin-top:2rem;
 }
+
+/* ---- product gallery, diagrams and downloads ---- */
+.shotgrid{display:grid;gap:1.5rem;grid-template-columns:1fr}
+@media(min-width:860px){.shotgrid{grid-template-columns:1fr 1fr}}
+.shot{margin:0}
+.shot .frame{border:1px solid var(--line);background:var(--paper);padding:.5rem}
+.band-mist .shot .frame{background:var(--paper)}
+.shot img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:top center;background:var(--mist)}
+.phonegrid .shot img{aspect-ratio:9/19.5;object-fit:cover;object-position:top center}
+.shot figcaption{font-size:.86rem;color:var(--muted);margin-top:.75rem;line-height:1.5}
+.phonegrid{display:grid;gap:1rem;grid-template-columns:repeat(3,1fr);max-width:640px;margin-top:1.75rem}
+
+.dgtabs{display:flex;flex-wrap:wrap;gap:.25rem 1.75rem;border-bottom:1px solid var(--line);margin-bottom:1.5rem}
+.dgpanel{display:none}
+.dgpanel.on{display:block}
+.dgpanel .dgcap{font-size:.95rem;color:var(--body);max-width:60ch;margin:0 0 1.1rem;padding:0;border:0;background:none}
+.dgscroll{overflow-x:auto;border:1px solid var(--line);background:#fff}
+.dgscroll img{display:block;min-width:900px;width:100%;height:auto}
+.dghint{font-size:.84rem;color:var(--muted);margin-top:.7rem}
+
+.dlgrid{display:grid;gap:1.25rem;grid-template-columns:1fr}
+@media(min-width:760px){.dlgrid{grid-template-columns:repeat(3,1fr)}}
+.dlcard{
+  background:var(--paper);border:1px solid var(--line);padding:1.5rem;
+  display:flex;flex-direction:column;gap:.5rem;
+}
+.band-mist .dlcard{background:var(--paper)}
+.dlcard .kind{font-size:.7rem;font-weight:600;letter-spacing:.11em;text-transform:uppercase;color:var(--bronze)}
+.dlcard h4{font-size:1.05rem;margin:0}
+.dlcard p{font-size:.88rem;color:var(--muted);line-height:1.55;margin:0}
+.dlcard .size{font-size:.78rem;color:var(--muted);letter-spacing:.03em}
+.dlcard .btn{align-self:flex-start;margin-top:.9rem}
+.warnbox{
+  border:1px solid var(--line);border-left:2px solid #C9A24B;background:var(--mist);
+  padding:1.1rem 1.3rem;margin-top:1.75rem;font-size:.89rem;line-height:1.6;color:var(--body);
+}
+.band-mist .warnbox{background:var(--paper)}
+.warnbox b{color:var(--ink)}

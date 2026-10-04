@@ -95,7 +95,6 @@
       <p>Field inspections generate arguments. Whether the work was really done on site. Whether a critical item passed. Who signed it off, and whether that person should have been allowed to. Which version of the checklist was actually used. Each of those is settled by a record, and the record is usually the weakest part of the process.</p>
       <p>FieldCheck is built around that record. An inspector works through a checklist on a phone with no signal, attaches photographs and a signature, and the answers sync when the connection returns — without a retry ever creating a duplicate. A failed critical question fails the inspection whatever the overall score says. The reviewer cannot be the inspector, and whoever raised a corrective action cannot be the one who closes it. Template versions are frozen on publication, so an inspection always shows the exact version it was run against.</p>
       <div class="applinks">
-        <a class="btn" href="https://claude.ai/artifact/7MThD3V7BRMH9ACHb6rt3N" target="_blank" rel="noopener">Open the full product page <span aria-hidden="true">&rarr;</span></a>
         <a class="btn btn-ghost" href="contact.html#clients">Enquire about a pilot</a>
       </div>
     </div>
@@ -127,6 +126,28 @@
   </div>
 </section>
 
+<section class="band band-mist">
+  <div class="wrap">
+    <div class="sec-head rise">
+      <span class="label">Screens</span>
+      <h2>Built for the person holding the phone, and the person reading the report.</h2>
+    </div>
+    <div class="shotgrid rise">
+      <figure class="shot"><div class="frame"><img src="fieldcheck/img/runner.jpg" alt="The inspection runner. Pass, fail or not applicable, with evidence attached to the answer." loading="lazy" decoding="async"></div><figcaption>The inspection runner. Pass, fail or not applicable, with evidence attached to the answer.</figcaption></figure>
+      <figure class="shot"><div class="frame"><img src="fieldcheck/img/dashboard.jpg" alt="Dashboard: what failed, what is overdue, and who owns it." loading="lazy" decoding="async"></div><figcaption>Dashboard: what failed, what is overdue, and who owns it.</figcaption></figure>
+      <figure class="shot"><div class="frame"><img src="fieldcheck/img/report.jpg" alt="Report: score, findings, evidence and sign-off on one page." loading="lazy" decoding="async"></div><figcaption>Report: score, findings, evidence and sign-off on one page.</figcaption></figure>
+      <figure class="shot"><div class="frame"><img src="fieldcheck/img/builder.jpg" alt="Template builder. Publishing freezes the version." loading="lazy" decoding="async"></div><figcaption>Template builder. Publishing freezes the version.</figcaption></figure>
+      <figure class="shot"><div class="frame"><img src="fieldcheck/img/actions.jpg" alt="Corrective actions, with owner and due date." loading="lazy" decoding="async"></div><figcaption>Corrective actions, with owner and due date.</figcaption></figure>
+      <figure class="shot"><div class="frame"><img src="fieldcheck/img/admin.jpg" alt="Administration: users, roles and sites." loading="lazy" decoding="async"></div><figcaption>Administration: users, roles and sites.</figcaption></figure>
+    </div>
+      <div class="phonegrid rise">
+        <figure class="shot"><div class="frame"><img src="fieldcheck/img/m1.jpg" alt="My work, phone view" loading="lazy" decoding="async"></div></figure>
+        <figure class="shot"><div class="frame"><img src="fieldcheck/img/m2.jpg" alt="Answering a question, phone view" loading="lazy" decoding="async"></div></figure>
+        <figure class="shot"><div class="frame"><img src="fieldcheck/img/m3.jpg" alt="Actions, phone view" loading="lazy" decoding="async"></div></figure>
+      </div>
+  </div>
+</section>
+
 <section class="band">
   <div class="wrap">
     <div class="sec-head rise">
@@ -134,12 +155,35 @@
       <h2>Four processes, modelled in BPMN.</h2>
       <p>Each has owners, hand-offs, and the rule that stops it being short-circuited.</p>
     </div>
-    <ol class="steps rise">
-  <li class="step"><h4>P-01 Template</h4><p>Authoring, review and publication. Publishing freezes the version.</p></li>
-  <li class="step"><h4>P-02 Inspection</h4><p>Scheduling and execution. Run on site, capture evidence, sync online or not.</p></li>
-  <li class="step"><h4>P-03 Review</h4><p>Review, approval and record closure. The person who did the work does not sign it off.</p></li>
-  <li class="step"><h4>P-04 Action</h4><p>Corrective and preventive action lifecycle. Closing needs a different person from the one who raised it.</p></li>
-    </ol>
+    <div class="dgtabs tabs" role="tablist" aria-label="Processes">
+      <button class="tab" type="button" role="tab" aria-selected="true" aria-controls="dg0" id="dgt0">P-01 Template</button>
+      <button class="tab" type="button" role="tab" aria-selected="false" aria-controls="dg1" id="dgt1">P-02 Inspection</button>
+      <button class="tab" type="button" role="tab" aria-selected="false" aria-controls="dg2" id="dgt2">P-03 Review</button>
+      <button class="tab" type="button" role="tab" aria-selected="false" aria-controls="dg3" id="dgt3">P-04 Action</button>
+    </div>
+    <div class="dgpanel on" role="tabpanel" id="dg0" aria-labelledby="dgt0"><p class="dgcap">Template authoring, review and publication. Publishing freezes the version.</p><div class="dgscroll"><img src="fieldcheck/img/p1.jpg" alt="BPMN diagram, P-01 Template" loading="lazy" decoding="async"></div></div>
+    <div class="dgpanel" role="tabpanel" id="dg1" aria-labelledby="dgt1"><p class="dgcap">Scheduling and execution. Run on site, capture evidence, sync online or not.</p><div class="dgscroll"><img src="fieldcheck/img/p2.jpg" alt="BPMN diagram, P-02 Inspection" loading="lazy" decoding="async"></div></div>
+    <div class="dgpanel" role="tabpanel" id="dg2" aria-labelledby="dgt2"><p class="dgcap">Review, approval and record closure. The person who did the work does not sign it off.</p><div class="dgscroll"><img src="fieldcheck/img/p3.jpg" alt="BPMN diagram, P-03 Review" loading="lazy" decoding="async"></div></div>
+    <div class="dgpanel" role="tabpanel" id="dg3" aria-labelledby="dgt3"><p class="dgcap">Corrective and preventive action lifecycle. Closing needs a different person from the one who raised it.</p><div class="dgscroll"><img src="fieldcheck/img/p4.jpg" alt="BPMN diagram, P-04 Action" loading="lazy" decoding="async"></div></div>
+    <p class="dghint">On a narrow screen, drag the diagram sideways.</p>
+  </div>
+</section>
+
+<section class="band band-mist">
+  <div class="wrap">
+    <div class="sec-head rise">
+      <span class="label">Downloads</span>
+      <h2>Try it, and read the detail.</h2>
+      <p>The application runs as a single file and is published through GitHub
+      Releases, so the link below always points at the current version. The two
+      documents set out what it must do and how each role uses it.</p>
+    </div>
+    <div class="dlgrid rise">
+      <div class="dlcard"><span class="kind">Application</span><h4>FieldCheck for Windows</h4><p>Single executable. No installer and no IT involvement — data is kept in your user profile using SQLite.</p><span class="size">32 MB · .exe</span><a class="btn" href="https://github.com/shashivkster/seshail.com/releases/latest/download/FieldCheck.exe" rel="noopener">Download</a></div>
+      <div class="dlcard"><span class="kind">Document</span><h4>Business Requirements</h4><p>Scope, 17 roles, functional and non-functional requirements, four BPMN processes and multi-tenancy. BRD-INSP-003 v0.3.</p><span class="size">2 MB · PDF</span><a class="btn" href="fieldcheck/docs/BRD-FieldCheck-v0.3.pdf" download>Download</a></div>
+      <div class="dlcard"><span class="kind">Document</span><h4>User Manual</h4><p>Task-by-task guidance for inspectors, reviewers, action owners and administrators, with a troubleshooting section. UM-INSP-002 v1.1.</p><span class="size">2 MB · PDF</span><a class="btn" href="fieldcheck/docs/UserManual-FieldCheck-v1.1.pdf" download>Download</a></div>
+    </div>
+    <div class="warnbox"><b>The Windows executable is not code-signed yet.</b> Windows SmartScreen will warn you the first time you run it. Choose <b>More info</b> and then <b>Run anyway</b> if you are happy to proceed. The build has been tested on Linux with Python 3.14 and not yet on Windows, so treat this as an evaluation build rather than a release.</div>
   </div>
 </section>
 
@@ -279,6 +323,25 @@ document.querySelectorAll('.rise').forEach(function(el){io.observe(el);});
   n.addEventListener('click',function(e){ if(e.target.closest('a')){n.classList.remove('open');t.setAttribute('aria-expanded','false');} });
   document.addEventListener('keydown',function(e){
     if(e.key==='Escape'&&n.classList.contains('open')){n.classList.remove('open');t.setAttribute('aria-expanded','false');t.focus();}
+  });
+})();
+
+(function(){
+  var tabs=[].slice.call(document.querySelectorAll('.dgtabs .tab'));
+  if(!tabs.length) return;
+  function sel(t){
+    tabs.forEach(function(x){
+      var on=x===t; x.setAttribute('aria-selected',String(on)); x.tabIndex=on?0:-1;
+      document.getElementById(x.getAttribute('aria-controls')).classList.toggle('on',on);
+    });
+    t.focus();
+  }
+  tabs.forEach(function(t,i){
+    t.addEventListener('click',function(){sel(t)});
+    t.addEventListener('keydown',function(e){
+      if(e.key==='ArrowRight'){e.preventDefault();sel(tabs[(i+1)%tabs.length]);}
+      if(e.key==='ArrowLeft'){e.preventDefault();sel(tabs[(i+tabs.length-1)%tabs.length]);}
+    });
   });
 })();
 </script>
