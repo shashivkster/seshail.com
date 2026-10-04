@@ -26,6 +26,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://seshail.com/fieldcheck.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://seshail.com/fitdiary.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://seshail.com/green-status-and-moving-dates.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -44,6 +54,11 @@
     <loc>https://seshail.com/news.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://seshail.com/products.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://seshail.com/program-manage-implementations.html</loc>
