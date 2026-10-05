@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T09:51:40.450894+00:00",
+ "generated_at": "2026-10-05T07:18:12.554317+00:00",
  "count": 58,
  "tags": [
   "AI",
@@ -10,6 +10,48 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Cloudflare Plans Public Certificate Authority to Issue Quantum-Safe TLS Certificates",
+   "link": "https://www.infoq.com/news/2026/10/postquatam-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-05T05:05:00+00:00"
+  },
+  {
+   "title": "EmTech Future 2026: When AI Meets Everything",
+   "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+   "source": "MIT Tech Review",
+   "tag": "AI",
+   "date": "2026-10-05T04:00:00+00:00"
+  },
+  {
+   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-04T20:31:07+00:00"
+  },
+  {
+   "title": "Google's Android Security State Libraries Enable Component-Level Security Verification",
+   "link": "https://www.infoq.com/news/2026/10/android-security-state-libs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cyber",
+   "date": "2026-10-04T17:00:00+00:00"
+  },
+  {
+   "title": "Fulcrum Echo promises AI text in the style of any writer, so I tested it",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/04/fulcrum-echo-promises-ai-text-in-the-style-of-any-writer-so-i-tested-it/5300944",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-04T15:15:00+00:00"
+  },
+  {
+   "title": "Revive Raskin's 3 laws of software with humane work that considers a dev's duty of care",
+   "link": "https://www.theregister.com/software/2026/10/04/revive-raskins-3-laws-of-software-with-humane-work-that-considers-a-devs-duty-of-care/5300539",
+   "source": "The Register",
+   "tag": "Cloud",
+   "date": "2026-10-04T10:30:00+00:00"
+  },
   {
    "title": "Pizza Bot: Open-Source Inbox for Background AI Agents",
    "link": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -32,7 +74,7 @@
    "date": "2026-10-03T18:43:57+00:00"
   },
   {
-   "title": "GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration",
+   "title": "GitLab Vulnerability under Active Exploitation Enables Unauthenticated Data Exfiltration",
    "link": "https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Cyber",
@@ -186,13 +228,6 @@
    "date": "2026-10-02T09:00:00+00:00"
   },
   {
-   "title": "DigitalOcean Managed Agents Brings Managed Cloud Infrastructure to AI Agents",
-   "link": "https://www.infoq.com/news/2026/10/digitalocean-managed-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-02T09:00:00+00:00"
-  },
-  {
    "title": "Don’t be fooled—LLMs don’t reason",
    "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
    "source": "MIT Tech Review",
@@ -298,13 +333,6 @@
    "date": "2026-10-01T09:15:00+00:00"
   },
   {
-   "title": "Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services",
-   "link": "https://www.theregister.com/off-prem/2026/10/01/azure-maintenance-mess-disrupted-hybrid-clouds-vpns-cloudy-vmware-services/5300333",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-09-30T23:54:57+00:00"
-  },
-  {
    "title": "AI security training soars amid rising threats",
    "link": "https://www.ciodive.com/news/AI-security-training-coursera-udemy-agentic/831831/",
    "source": "CIO Dive",
@@ -387,34 +415,6 @@
    "source": "ET CIO",
    "tag": "Enterprise systems",
    "date": "2026-09-26T02:30:00+00:00"
-  },
-  {
-   "title": "SAP Named a Leader in the 2026 IDC MarketScape for AI-Enabled Direct Spend",
-   "link": "https://news.sap.com/2026/09/sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-09-24T13:15:00+00:00"
-  },
-  {
-   "title": "What Implementation Teams Wish Organizations Knew About Enterprise RFPs",
-   "link": "https://news.sap.com/2026/09/rfps-what-implementation-teams-wish-organizations-knew/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-09-24T12:15:00+00:00"
-  },
-  {
-   "title": "SAP AppHaus Network Partner Bluestonex Builds the Bridge: From Inspiration to Hands-On AI Innovation",
-   "link": "https://news.sap.com/2026/09/sap-apphaus-network-partner-bluestonex-builds-the-bridge/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-09-24T11:15:00+00:00"
-  },
-  {
-   "title": "The Autonomous Enterprise, Unfiltered: Lessons From 16 Executive Conversations",
-   "link": "https://news.sap.com/2026/09/autonomous-enterprise-podcast-lesssons-16-executive-conversations/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-09-24T10:15:00+00:00"
   }
  ]
 }
