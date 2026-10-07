@@ -1,14 +1,148 @@
 {
- "generated_at": "2026-10-06T07:44:19.361246+00:00",
- "count": 57,
+ "generated_at": "2026-10-07T07:24:39.112422+00:00",
+ "count": 51,
  "tags": [
   "AI",
   "Cloud",
   "Cyber",
   "Enterprise systems",
-  "India"
+  "India",
+  "Sourcing"
  ],
  "items": [
+  {
+   "title": "South Korean president calls for creation of tools that stop all cyber-attacks",
+   "link": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-07T03:56:25+00:00"
+  },
+  {
+   "title": "A new role for CDOs: Turning AI experimentation into enterprise value",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/a-new-role-for-cdos-turning-ai-experimentation-into-enterprise-value/134754141",
+   "source": "ET CIO",
+   "tag": "Enterprise systems",
+   "date": "2026-10-07T02:30:11+00:00"
+  },
+  {
+   "title": "Microsoft defines its Azure instance lifecycle, without any info about timing",
+   "link": "https://www.theregister.com/off-prem/2026/10/07/microsoft-defines-its-azure-instance-lifecycle-without-any-info-about-timing/5301526",
+   "source": "The Register",
+   "tag": "Cloud",
+   "date": "2026-10-07T02:22:09+00:00"
+  },
+  {
+   "title": "Anthropic reconfigures its cool kids security program",
+   "link": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-06T23:29:27+00:00"
+  },
+  {
+   "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+   "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-06T20:47:01+00:00"
+  },
+  {
+   "title": "How AI decision models could change content moderation",
+   "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-06T20:35:20+00:00"
+  },
+  {
+   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+   "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-06T20:00:30+00:00"
+  },
+  {
+   "title": "The next hurdle for AI agents: getting websites to let them in",
+   "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-06T19:56:50+00:00"
+  },
+  {
+   "title": "Anthropic, AWS step up FDE push",
+   "link": "https://www.ciodive.com/news/anthropic-aws-forward-deployed-engineer-certifications/832308/",
+   "source": "CIO Dive",
+   "tag": "Cloud",
+   "date": "2026-10-06T19:53:00+00:00"
+  },
+  {
+   "title": "Hark releases an AI personal assistant with a focus on privacy",
+   "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-06T18:22:45+00:00"
+  },
+  {
+   "title": "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/06/european-ai-flag-bearer-mistrals-new-open-weights-model-is-le-chonk/5301443",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-06T18:03:25+00:00"
+  },
+  {
+   "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+   "link": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+   "source": "TechCrunch",
+   "tag": "India",
+   "date": "2026-10-06T17:14:07+00:00"
+  },
+  {
+   "title": "Pinterest’s AI now turns beauty Pins into action plans",
+   "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-06T14:00:49+00:00"
+  },
+  {
+   "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-06T13:00:00+00:00"
+  },
+  {
+   "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+   "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+   "source": "Ars Technica",
+   "tag": "Sourcing",
+   "date": "2026-10-06T12:00:31+00:00"
+  },
+  {
+   "title": "OpenTelemetry Makes Kubernetes Attributes Processor Stable as Observability Schema Matures",
+   "link": "https://www.infoq.com/news/2026/10/opentelemetry-kubernetes-observ/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-06T12:00:00+00:00"
+  },
+  {
+   "title": "SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI",
+   "link": "https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-06T11:45:00+00:00"
+  },
+  {
+   "title": "SAP Puts the Autonomous Enterprise to Work",
+   "link": "https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-06T11:30:00+00:00"
+  },
+  {
+   "title": "Innovation News Guide: Advancing the Autonomous Enterprise",
+   "link": "https://www.sap.com/topics/events/connect/innovation-news-guide-2026#new_tab",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-06T11:30:00+00:00"
+  },
   {
    "title": "OpenAI rolls out weak sauce watermarking for AI text",
    "link": "https://www.theregister.com/ai-and-ml/2026/10/06/openai-rolls-out-weak-sauce-watermarking-for-ai-text/5301257",
@@ -52,53 +186,11 @@
    "date": "2026-10-05T19:46:00+00:00"
   },
   {
-   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T19:33:53+00:00"
-  },
-  {
    "title": "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
    "link": "https://www.theregister.com/ai-and-ml/2026/10/05/get-rid-of-apples-ai-bloatware-and-reclaim-12-gb-of-storage-with-this-open-source-tool/5301213",
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-05T19:24:19+00:00"
-  },
-  {
-   "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-   "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T18:54:30+00:00"
-  },
-  {
-   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-   "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T18:29:00+00:00"
-  },
-  {
-   "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-   "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T18:07:07+00:00"
-  },
-  {
-   "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-   "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T17:29:22+00:00"
-  },
-  {
-   "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-   "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T16:43:35+00:00"
   },
   {
    "title": "Altman-backed Volantis reveals plan to vault the memory wall by baking photonics into AI accelerators",
@@ -108,32 +200,11 @@
    "date": "2026-10-05T16:32:00+00:00"
   },
   {
-   "title": "Connecting AI agents to enterprise knowledge",
-   "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
-   "source": "MIT Tech Review",
-   "tag": "Enterprise systems",
-   "date": "2026-10-05T15:47:52+00:00"
-  },
-  {
    "title": "Debian's latest kernel security update has 1,313 reasons to patch",
    "link": "https://www.theregister.com/os-platforms/2026/10/05/debians-latest-kernel-security-update-has-1313-reasons-to-patch/5301124",
    "source": "The Register",
    "tag": "Cyber",
    "date": "2026-10-05T15:35:00+00:00"
-  },
-  {
-   "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-   "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T15:00:00+00:00"
-  },
-  {
-   "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-   "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T14:35:09+00:00"
   },
   {
    "title": "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
@@ -143,7 +214,7 @@
    "date": "2026-10-05T14:29:00+00:00"
   },
   {
-   "title": "Akka Tests Spec-Driven AI Delivery Across 65 Open Source Projects",
+   "title": "Akka Tests Spec-Driven AI Delivery across 65 Open Source Projects",
    "link": "https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "AI",
@@ -155,20 +226,6 @@
    "source": "The Register",
    "tag": "Enterprise systems",
    "date": "2026-10-05T13:30:00+00:00"
-  },
-  {
-   "title": "Bringing predictive analytics to the agentic AI era",
-   "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-10-05T13:29:32+00:00"
-  },
-  {
-   "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-   "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-05T12:00:00+00:00"
   },
   {
    "title": "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text",
@@ -220,20 +277,6 @@
    "date": "2026-10-05T05:05:00+00:00"
   },
   {
-   "title": "EmTech Future 2026: When AI Meets Everything",
-   "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-10-05T04:00:00+00:00"
-  },
-  {
-   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-   "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-04T20:31:07+00:00"
-  },
-  {
    "title": "Google's Android Security State Libraries Enable Component-Level Security Verification",
    "link": "https://www.infoq.com/news/2026/10/android-security-state-libs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
@@ -255,34 +298,6 @@
    "date": "2026-10-04T10:30:00+00:00"
   },
   {
-   "title": "Pizza Bot: Open-Source Inbox for Background AI Agents",
-   "link": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-04T06:34:00+00:00"
-  },
-  {
-   "title": "New Archestra's OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate",
-   "link": "https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cyber",
-   "date": "2026-10-03T23:41:00+00:00"
-  },
-  {
-   "title": "GitLab Vulnerability under Active Exploitation Enables Unauthenticated Data Exfiltration",
-   "link": "https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cyber",
-   "date": "2026-10-03T16:00:00+00:00"
-  },
-  {
-   "title": "Presentation: Building GenAI Platform at DoorDash",
-   "link": "https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-03T11:00:00+00:00"
-  },
-  {
    "title": "Designing customer experience for the agentic era",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/designing-customer-experience-for-the-agentic-era/134650550",
    "source": "ET CIO",
@@ -302,62 +317,6 @@
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-02T18:02:32+00:00"
-  },
-  {
-   "title": "Redefining enterprise intelligence with autonomous AI",
-   "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-   "source": "MIT Tech Review",
-   "tag": "Enterprise systems",
-   "date": "2026-10-02T15:49:04+00:00"
-  },
-  {
-   "title": "OpenAI's wandering AI agents earn it a California subpoena",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-02T14:34:00+00:00"
-  },
-  {
-   "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-   "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-   "source": "The Register",
-   "tag": "Enterprise systems",
-   "date": "2026-10-02T13:50:39+00:00"
-  },
-  {
-   "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-   "link": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-10-02T12:10:00+00:00"
-  },
-  {
-   "title": "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
-   "link": "https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-10-02T11:43:35+00:00"
-  },
-  {
-   "title": "Don’t be fooled—LLMs don’t reason",
-   "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-10-02T08:00:00+00:00"
-  },
-  {
-   "title": "AWS turns its best practice framework into an agent that recommends cloudy reconfigs",
-   "link": "https://www.theregister.com/off-prem/2026/10/02/aws-turns-its-best-practice-framework-into-an-agent-that-recommends-cloudy-reconfigs/5300730",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-10-02T05:10:09+00:00"
-  },
-  {
-   "title": "The Download: AI “mind-reading” and creative uses for small batteries",
-   "link": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-10-01T12:10:00+00:00"
   },
   {
    "title": "Cloudflare plans to issue quantum-safe TLS certificates",
