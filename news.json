@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T07:28:08.156776+00:00",
+ "generated_at": "2026-10-12T07:35:52.149896+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -11,6 +11,48 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Exploring Agentic AI: Trust boundaries and the risks of safe models being exploited by fraudsters",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/exploring-agentic-ai-trust-boundaries-and-the-risks-of-safe-models-being-exploited-by-fraudsters/134880644",
+   "source": "ET CIO",
+   "tag": "AI",
+   "date": "2026-10-12T02:30:00+00:00"
+  },
+  {
+   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+   "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-11T16:52:33+00:00"
+  },
+  {
+   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+   "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-11T14:00:00+00:00"
+  },
+  {
+   "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
+   "link": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-11T11:30:00+00:00"
+  },
+  {
+   "title": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
+   "link": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-11T09:37:00+00:00"
+  },
+  {
+   "title": "Foresight AI Brings Gremlin Agents to Reliability Engineering",
+   "link": "https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-11T09:00:00+00:00"
+  },
   {
    "title": "AWS Introduces Enhanced Custom Event Buses for EventBridge",
    "link": "https://www.infoq.com/news/2026/10/aws-enhanced-eventbridge-buses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -89,20 +131,6 @@
    "date": "2026-10-10T00:18:32+00:00"
   },
   {
-   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-09T21:41:29+00:00"
-  },
-  {
-   "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-   "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-09T19:36:56+00:00"
-  },
-  {
    "title": "AWS AgentCore security undone by prompt requesting credentials",
    "link": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
    "source": "The Register",
@@ -110,39 +138,11 @@
    "date": "2026-10-09T19:15:48+00:00"
   },
   {
-   "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-   "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-10-09T18:57:58+00:00"
-  },
-  {
    "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
    "link": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "AI",
    "date": "2026-10-09T17:00:00+00:00"
-  },
-  {
-   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-   "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-10-09T16:56:42+00:00"
-  },
-  {
-   "title": "We can’t help treating AI like it’s human. But should we?",
-   "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-09T16:40:14+00:00"
-  },
-  {
-   "title": "a16z’s Olivia Moore on the state of consumer AI",
-   "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-09T15:43:33+00:00"
   },
   {
    "title": "Growing pains: how distributed AI training changes the network between datacenters",
@@ -348,39 +348,11 @@
    "date": "2026-10-08T08:00:00+00:00"
   },
   {
-   "title": "Cloudflare Open Sources Decision Models for AI Agents",
-   "link": "https://www.infoq.com/news/2026/10/clef-decision-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-08T06:54:00+00:00"
-  },
-  {
    "title": "The next frontier: Reengineering Indian enterprises for the agentic era",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-next-frontier-reengineering-indian-enterprises-for-the-agentic-era/134777924",
    "source": "ET CIO",
    "tag": "India",
    "date": "2026-10-08T02:30:00+00:00"
-  },
-  {
-   "title": "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
-   "link": "https://www.theregister.com/cyber-crime/2026/10/08/ransomware-fixer-claimed-he-could-decrypt-files-allegedly-defrauded-clients-instead/5301831",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-10-08T02:29:55+00:00"
-  },
-  {
-   "title": "Singapore’s central bank wants all FinTech AI use cases subject to independent review",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-08T00:53:03+00:00"
-  },
-  {
-   "title": "Microsoft is about to let Copilot loose on your file system",
-   "link": "https://www.theregister.com/personal-tech/2026/10/07/microsoft-is-about-to-let-copilot-loose-on-your-file-system/5301763",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-07T21:54:35+00:00"
   },
   {
    "title": "Executives use AI more than their workers do",
@@ -430,6 +402,34 @@
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-10-07T07:30:00+00:00"
+  },
+  {
+   "title": "A new role for CDOs: Turning AI experimentation into enterprise value",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/a-new-role-for-cdos-turning-ai-experimentation-into-enterprise-value/134754141",
+   "source": "ET CIO",
+   "tag": "Enterprise systems",
+   "date": "2026-10-07T02:30:11+00:00"
+  },
+  {
+   "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
+   "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+   "source": "Ars Technica",
+   "tag": "Sourcing",
+   "date": "2026-10-06T12:00:31+00:00"
+  },
+  {
+   "title": "SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI",
+   "link": "https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-06T11:45:00+00:00"
+  },
+  {
+   "title": "SAP Puts the Autonomous Enterprise to Work",
+   "link": "https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-06T11:30:00+00:00"
   }
  ]
 }
