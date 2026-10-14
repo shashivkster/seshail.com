@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T07:55:16.938791+00:00",
+ "generated_at": "2026-10-14T06:21:24.202180+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -12,6 +12,153 @@
  ],
  "items": [
   {
+   "title": "Cloudflares Newly Acquired Vite+ Reaches 1.0 with GitLab CI Support, Hooks, and tsup Migration",
+   "link": "https://www.infoq.com/news/2026/10/cloudflare-viteplus-stable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-14T06:15:00+00:00"
+  },
+  {
+   "title": "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
+   "link": "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-14T05:00:00+00:00"
+  },
+  {
+   "title": "Philips’ AI bet is on redesigning work, not adding AI to every step",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/philips-ai-bet-is-on-redesigning-work-not-adding-ai-to-every-step/134930020",
+   "source": "ET CIO",
+   "tag": "AI",
+   "date": "2026-10-14T02:30:00+00:00"
+  },
+  {
+   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+   "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-13T23:05:34+00:00"
+  },
+  {
+   "title": "Cerebras CEO pushes back on AI doomsday warnings",
+   "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-13T22:36:59+00:00"
+  },
+  {
+   "title": "Workday brings autopilots to finance in autonomous AI bet",
+   "link": "https://www.ciodive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832912/",
+   "source": "CIO Dive",
+   "tag": "Enterprise systems",
+   "date": "2026-10-13T20:16:00+00:00"
+  },
+  {
+   "title": "IT execs brace for AI agent security incidents",
+   "link": "https://www.ciodive.com/news/it-execs-brace-ai-agent-security-incidents/832903/",
+   "source": "CIO Dive",
+   "tag": "AI",
+   "date": "2026-10-13T19:45:20+00:00"
+  },
+  {
+   "title": "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-13T19:16:53+00:00"
+  },
+  {
+   "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+   "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-13T18:30:00+00:00"
+  },
+  {
+   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+   "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+   "source": "TechCrunch",
+   "tag": "Enterprise systems",
+   "date": "2026-10-13T17:18:25+00:00"
+  },
+  {
+   "title": "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-13T16:49:00+00:00"
+  },
+  {
+   "title": "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'",
+   "link": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-13T16:30:00+00:00"
+  },
+  {
+   "title": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks",
+   "link": "https://www.theregister.com/systems/2026/10/13/microsoft-plans-multi-gigawatt-rollout-of-next-gen-azure-maia-ai-accelerator-racks/5302802",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-13T13:30:00+00:00"
+  },
+  {
+   "title": "SAP Strengthens the Foundation for the Autonomous Enterprise with SAP Cloud ERP Private 2025 FPS02",
+   "link": "https://news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-13T13:15:00+00:00"
+  },
+  {
+   "title": "AI bubble could burst and take global economy with it, IMF warns",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-13T12:44:00+00:00"
+  },
+  {
+   "title": "Production Patterns for Agents, Evals, and LLM Costs: QCon AI New York 2026",
+   "link": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-sessionsv2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-13T12:00:00+00:00"
+  },
+  {
+   "title": "Cyberattacks crank French supermarket refrigeration systems up to 50°C",
+   "link": "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-13T12:00:00+00:00"
+  },
+  {
+   "title": "AWS Reworks EventBridge Custom Buses for Enterprise-Scale Event-Driven Architectures",
+   "link": "https://www.infoq.com/news/2026/10/aws-eventbridge-scaling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Enterprise systems",
+   "date": "2026-10-13T12:00:00+00:00"
+  },
+  {
+   "title": "'123456' password linked to Denmark data breach affecting 8.8M people",
+   "link": "https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-13T11:14:00+00:00"
+  },
+  {
+   "title": "How Unilever tailors AI focus to business outcomes",
+   "link": "https://www.ciodive.com/news/unilever-tailors-ai-focus-business-outcomes/832799/",
+   "source": "CIO Dive",
+   "tag": "AI",
+   "date": "2026-10-13T11:00:00+00:00"
+  },
+  {
+   "title": "AI labs are buying data from dead startups to train their models",
+   "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+   "source": "MIT Tech Review",
+   "tag": "AI",
+   "date": "2026-10-13T09:00:00+00:00"
+  },
+  {
    "title": "Home Office asylum AI flunks one in five accuracy checks",
    "link": "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
    "source": "The Register",
@@ -19,7 +166,7 @@
    "date": "2026-10-13T07:31:00+00:00"
   },
   {
-   "title": "Cloudflare’s OHTTP Gateway Refuses to Decrypt Requests That Arrive Through Cloudflare",
+   "title": "Cloudflare’s OHTTP Gateway Refuses to Decrypt Requests That Arrive through Cloudflare",
    "link": "https://www.infoq.com/news/2026/10/cloudflare-ohttp-gateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Cloud",
@@ -47,39 +194,11 @@
    "date": "2026-10-12T20:27:00+00:00"
   },
   {
-   "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-   "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-   "source": "TechCrunch",
-   "tag": "Sourcing",
-   "date": "2026-10-12T17:19:14+00:00"
-  },
-  {
    "title": "AMD unveils Helion racks for AI agents at OCP summit",
    "link": "https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652",
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-12T15:51:36+00:00"
-  },
-  {
-   "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-   "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-12T15:45:00+00:00"
-  },
-  {
-   "title": "Microsoft president says UK is best placed to drive AI regulation",
-   "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-12T15:31:19+00:00"
-  },
-  {
-   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-   "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-12T15:27:59+00:00"
   },
   {
    "title": "Which AI infrastructure option actually holds a boundary?",
@@ -108,13 +227,6 @@
    "source": "The Register",
    "tag": "Enterprise systems",
    "date": "2026-10-12T12:58:00+00:00"
-  },
-  {
-   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-   "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-12T12:47:59+00:00"
   },
   {
    "title": "Microsoft giveth and Microsoft taketh away: Copilot edition",
@@ -187,20 +299,6 @@
    "date": "2026-10-12T02:30:00+00:00"
   },
   {
-   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-11T16:52:33+00:00"
-  },
-  {
-   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-   "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-11T14:00:00+00:00"
-  },
-  {
    "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
    "link": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
    "source": "The Register",
@@ -213,27 +311,6 @@
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-11T09:37:00+00:00"
-  },
-  {
-   "title": "Foresight AI Brings Gremlin Agents to Reliability Engineering",
-   "link": "https://www.infoq.com/news/2026/10/gremlin-foresight-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-11T09:00:00+00:00"
-  },
-  {
-   "title": "AWS Introduces Enhanced Custom Event Buses for EventBridge",
-   "link": "https://www.infoq.com/news/2026/10/aws-enhanced-eventbridge-buses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-10-11T06:35:00+00:00"
-  },
-  {
-   "title": "Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing",
-   "link": "https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-10-10T07:12:00+00:00"
   },
   {
    "title": "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
@@ -257,13 +334,6 @@
    "date": "2026-10-09T19:15:48+00:00"
   },
   {
-   "title": "Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring",
-   "link": "https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-09T17:00:00+00:00"
-  },
-  {
    "title": "Growing pains: how distributed AI training changes the network between datacenters",
    "link": "https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554",
    "source": "The Register",
@@ -276,76 +346,6 @@
    "source": "The Register",
    "tag": "Enterprise systems",
    "date": "2026-10-09T14:44:00+00:00"
-  },
-  {
-   "title": "Tech Bytes: IBM, SAP band together to tackle cloud migration",
-   "link": "https://www.ciodive.com/news/tech-bytes-ibm-sap-tackle-cloud-migration/832559/",
-   "source": "CIO Dive",
-   "tag": "Cloud",
-   "date": "2026-10-09T11:00:00+00:00"
-  },
-  {
-   "title": "So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes",
-   "link": "https://www.theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-09T06:03:00+00:00"
-  },
-  {
-   "title": "India’s tech giants shrug off changes to USA’s skilled visa program",
-   "link": "https://www.theregister.com/legal/2026/10/09/indias-tech-giants-shrug-off-changes-to-usas-skilled-visa-program/5302154",
-   "source": "The Register",
-   "tag": "India",
-   "date": "2026-10-09T03:17:29+00:00"
-  },
-  {
-   "title": "AI company moves to defend critical infrastructure and open-source projects from AI",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-08T23:57:40+00:00"
-  },
-  {
-   "title": "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086",
-   "source": "The Register",
-   "tag": "Enterprise systems",
-   "date": "2026-10-08T20:16:27+00:00"
-  },
-  {
-   "title": "Google unifies fragmented AI agents into a single hub",
-   "link": "https://www.ciodive.com/news/google-gemini-agent-enterprise-thomas-kurian/832561/",
-   "source": "CIO Dive",
-   "tag": "AI",
-   "date": "2026-10-08T19:56:07+00:00"
-  },
-  {
-   "title": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal",
-   "link": "https://www.theregister.com/systems/2026/10/08/tsmc-taps-globalfoundries-to-bolster-us-silicon-interposer-production-in-2b-deal/5302061",
-   "source": "The Register",
-   "tag": "Enterprise systems",
-   "date": "2026-10-08T17:22:32+00:00"
-  },
-  {
-   "title": "Gremlin now uses AI to break distributed systems faster",
-   "link": "https://www.theregister.com/on-prem/2026/10/08/gremlin-now-uses-ai-to-break-distributed-systems-faster/5302051",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-08T17:09:17+00:00"
-  },
-  {
-   "title": "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise",
-   "link": "https://www.theregister.com/security/2026/10/08/shai-hulud-worm-makes-jump-to-ai-infrastructure-with-tensorlake-compromise/5302054",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-08T16:54:48+00:00"
-  },
-  {
-   "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-   "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-10-08T12:10:00+00:00"
   },
   {
    "title": "How Joule Work and SAP Business AI Platform Are Powering the Next Generation of Business AI",
