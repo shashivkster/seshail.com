@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T06:21:24.202180+00:00",
+ "generated_at": "2026-10-15T06:03:33.920232+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -7,10 +7,163 @@
   "Cyber",
   "Data",
   "Enterprise systems",
-  "India",
-  "Sourcing"
+  "India"
  ],
  "items": [
+  {
+   "title": "Cloud, AI and digital twins: Transforming defence infrastructure",
+   "link": "https://cio.economictimes.indiatimes.com/news/cloud-computing/cloud-ai-and-digital-twins-transforming-defence-infrastructure/134955731",
+   "source": "ET CIO",
+   "tag": "AI",
+   "date": "2026-10-15T02:46:11+00:00"
+  },
+  {
+   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+   "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-15T00:00:00+00:00"
+  },
+  {
+   "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+   "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-14T22:00:00+00:00"
+  },
+  {
+   "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+   "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+   "source": "TechCrunch",
+   "tag": "India",
+   "date": "2026-10-14T21:48:20+00:00"
+  },
+  {
+   "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+   "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+   "source": "Ars Technica",
+   "tag": "Cyber",
+   "date": "2026-10-14T21:35:09+00:00"
+  },
+  {
+   "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+   "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-14T21:00:00+00:00"
+  },
+  {
+   "title": "Chaos ensues when AI interviewer meets AI interviewee",
+   "link": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-14T20:53:37+00:00"
+  },
+  {
+   "title": "Linux kernel devs drop obligatory confession of AI tool usage",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-14T20:16:31+00:00"
+  },
+  {
+   "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+   "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+   "source": "TechCrunch",
+   "tag": "Cloud",
+   "date": "2026-10-14T19:51:34+00:00"
+  },
+  {
+   "title": "Dedicated AI officers, platforms lead businesses to ROI",
+   "link": "https://www.ciodive.com/news/AI-officers-platforms-lead-ROI/833035/",
+   "source": "CIO Dive",
+   "tag": "AI",
+   "date": "2026-10-14T19:36:59+00:00"
+  },
+  {
+   "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
+   "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-14T19:12:33+00:00"
+  },
+  {
+   "title": "Businesses need better risk management to fend off cyberattacks",
+   "link": "https://www.ciodive.com/news/cybersecurity-risk-management-ai-governance-grant-thornton/833012/",
+   "source": "CIO Dive",
+   "tag": "Cyber",
+   "date": "2026-10-14T18:40:00+00:00"
+  },
+  {
+   "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+   "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-14T18:00:00+00:00"
+  },
+  {
+   "title": "Researchers cig-nal their faith in AI by taking up smoking",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-14T16:18:59+00:00"
+  },
+  {
+   "title": "Meta Extends Confidential Computing to AI Glasses with Private Processing",
+   "link": "https://www.infoq.com/news/2026/10/meta-private-process-ai-glasses/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-14T13:57:00+00:00"
+  },
+  {
+   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+   "source": "Ars Technica",
+   "tag": "AI",
+   "date": "2026-10-14T12:55:06+00:00"
+  },
+  {
+   "title": "DACHSER Migrates HCM to SAP S/4HANA Cloud Using RISE with SAP",
+   "link": "https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-14T12:15:00+00:00"
+  },
+  {
+   "title": "Software providers are still waiting for AI to pay off",
+   "link": "https://www.ciodive.com/news/software-waiting-ai-pay-off/832913/",
+   "source": "CIO Dive",
+   "tag": "AI",
+   "date": "2026-10-14T12:00:00+00:00"
+  },
+  {
+   "title": "Fast-Growth Companies Have the Biggest AI Opportunity, Few Are Capturing It",
+   "link": "https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/",
+   "source": "SAP News",
+   "tag": "AI",
+   "date": "2026-10-14T11:15:00+00:00"
+  },
+  {
+   "title": "The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue",
+   "link": "https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-14T09:00:00+00:00"
+  },
+  {
+   "title": "UK government chases AI while aging IT leaves it exposed, PAC chair warns",
+   "link": "https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-14T08:15:00+00:00"
+  },
+  {
+   "title": "It won't kill you, or humanity, to get off the AI upgrade treadmill",
+   "link": "https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-14T07:30:00+00:00"
+  },
   {
    "title": "Cloudflares Newly Acquired Vite+ Reaches 1.0 with GitLab CI Support, Hooks, and tsup Migration",
    "link": "https://www.infoq.com/news/2026/10/cloudflare-viteplus-stable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -33,20 +186,6 @@
    "date": "2026-10-14T02:30:00+00:00"
   },
   {
-   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-   "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-13T23:05:34+00:00"
-  },
-  {
-   "title": "Cerebras CEO pushes back on AI doomsday warnings",
-   "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-13T22:36:59+00:00"
-  },
-  {
    "title": "Workday brings autopilots to finance in autonomous AI bet",
    "link": "https://www.ciodive.com/news/workday-brings-autopilots-finance-autonomous-ai-bet/832912/",
    "source": "CIO Dive",
@@ -66,20 +205,6 @@
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-13T19:16:53+00:00"
-  },
-  {
-   "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-   "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-13T18:30:00+00:00"
-  },
-  {
-   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-   "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-   "source": "TechCrunch",
-   "tag": "Enterprise systems",
-   "date": "2026-10-13T17:18:25+00:00"
   },
   {
    "title": "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
@@ -278,20 +403,6 @@
    "date": "2026-10-12T11:00:00+00:00"
   },
   {
-   "title": "Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete",
-   "link": "https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-12T10:27:00+00:00"
-  },
-  {
-   "title": "Getting AI-ready: AI’s impact on data center subsystems",
-   "link": "https://www.ciodive.com/spons/getting-ai-ready-ais-impact-on-data-center-subsystems/832454/",
-   "source": "CIO Dive",
-   "tag": "Cloud",
-   "date": "2026-10-12T09:00:00+00:00"
-  },
-  {
    "title": "Exploring Agentic AI: Trust boundaries and the risks of safe models being exploited by fraudsters",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/exploring-agentic-ai-trust-boundaries-and-the-risks-of-safe-models-being-exploited-by-fraudsters/134880644",
    "source": "ET CIO",
@@ -299,53 +410,11 @@
    "date": "2026-10-12T02:30:00+00:00"
   },
   {
-   "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
-   "link": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-11T11:30:00+00:00"
-  },
-  {
-   "title": "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
-   "link": "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-11T09:37:00+00:00"
-  },
-  {
-   "title": "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-10T07:10:00+00:00"
-  },
-  {
    "title": "Kajol Devgan to tech leaders: &quot;Authenticity sells better than any AI version of yourself&quot;",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/kajol-devgan-to-tech-leaders-authenticity-sells-better-than-any-ai-version-of-yourself/134846166",
    "source": "ET CIO",
    "tag": "AI",
    "date": "2026-10-10T02:30:00+00:00"
-  },
-  {
-   "title": "AWS AgentCore security undone by prompt requesting credentials",
-   "link": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-10-09T19:15:48+00:00"
-  },
-  {
-   "title": "Growing pains: how distributed AI training changes the network between datacenters",
-   "link": "https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-09T15:00:00+00:00"
-  },
-  {
-   "title": "Oracle lets AI agents do the work, provided you stay in Big Red's world",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270",
-   "source": "The Register",
-   "tag": "Enterprise systems",
-   "date": "2026-10-09T14:44:00+00:00"
   },
   {
    "title": "How Joule Work and SAP Business AI Platform Are Powering the Next Generation of Business AI",
@@ -360,76 +429,6 @@
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-10-08T12:00:00+00:00"
-  },
-  {
-   "title": "The next frontier: Reengineering Indian enterprises for the agentic era",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-next-frontier-reengineering-indian-enterprises-for-the-agentic-era/134777924",
-   "source": "ET CIO",
-   "tag": "India",
-   "date": "2026-10-08T02:30:00+00:00"
-  },
-  {
-   "title": "SAP Showcases the Autonomous Enterprise in Action",
-   "link": "https://news.sap.com/2026/10/sap-connect-keynote-autonomous-enterprise-in-action/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-07T13:00:00+00:00"
-  },
-  {
-   "title": "SAP Accelerates Autonomous HCM",
-   "link": "https://news.sap.com/2026/10/sap-accelerates-autonomous-hcm/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-07T12:01:00+00:00"
-  },
-  {
-   "title": "AI Can Act. Can Your Business Follow Through?",
-   "link": "https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/",
-   "source": "SAP News",
-   "tag": "AI",
-   "date": "2026-10-07T12:00:00+00:00"
-  },
-  {
-   "title": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know",
-   "link": "https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-07T07:30:00+00:00"
-  },
-  {
-   "title": "A new role for CDOs: Turning AI experimentation into enterprise value",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/a-new-role-for-cdos-turning-ai-experimentation-into-enterprise-value/134754141",
-   "source": "ET CIO",
-   "tag": "Enterprise systems",
-   "date": "2026-10-07T02:30:11+00:00"
-  },
-  {
-   "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-   "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-   "source": "Ars Technica",
-   "tag": "Sourcing",
-   "date": "2026-10-06T12:00:31+00:00"
-  },
-  {
-   "title": "SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI",
-   "link": "https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-06T11:45:00+00:00"
-  },
-  {
-   "title": "SAP Puts the Autonomous Enterprise to Work",
-   "link": "https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-06T11:30:00+00:00"
-  },
-  {
-   "title": "Innovation News Guide: Advancing the Autonomous Enterprise",
-   "link": "https://www.sap.com/topics/events/connect/innovation-news-guide-2026#new_tab",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-06T11:30:00+00:00"
   }
  ]
 }
