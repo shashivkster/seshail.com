@@ -1,15 +1,49 @@
 {
- "generated_at": "2026-10-17T05:47:34.100717+00:00",
- "count": 60,
+ "generated_at": "2026-10-18T06:11:20.297481+00:00",
+ "count": 57,
  "tags": [
   "AI",
   "Cloud",
   "Cyber",
   "Enterprise systems",
-  "India",
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
+   "link": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-18T05:30:00+00:00"
+  },
+  {
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-17T21:31:32+00:00"
+  },
+  {
+   "title": "Cybercrims go beyond stealing data to attack physical building systems",
+   "link": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-17T11:30:00+00:00"
+  },
+  {
+   "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
+   "link": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-17T09:00:00+00:00"
+  },
+  {
+   "title": "Reverse Engineer Anything Project Brings AI Agents to Binary Analysis",
+   "link": "https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-17T06:28:00+00:00"
+  },
   {
    "title": "OpenAI models hacked a crypto wallet and breached more websites",
    "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
@@ -158,20 +192,6 @@
    "date": "2026-10-15T20:26:33+00:00"
   },
   {
-   "title": "Meta launches an open-weight AI model that runs on Macs",
-   "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-15T20:04:53+00:00"
-  },
-  {
-   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-   "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-15T19:55:25+00:00"
-  },
-  {
    "title": "$24,000 AI experiment ports TypeScript compiler to Rust",
    "link": "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
    "source": "The Register",
@@ -210,13 +230,6 @@
    "title": "Top banks reckon with AI risks, but spot benefits",
    "link": "https://www.ciodive.com/news/top-banks-ai-risks-benefits/833052/",
    "source": "CIO Dive",
-   "tag": "AI",
-   "date": "2026-10-15T11:00:00+00:00"
-  },
-  {
-   "title": "Presentation: What 25 Trillion Tokens Reveal About How Developers Actually Adopt AI Agents",
-   "link": "https://www.infoq.com/presentations/agentic-ai-developer-trust-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
    "tag": "AI",
    "date": "2026-10-15T11:00:00+00:00"
   },
@@ -289,13 +302,6 @@
    "source": "CIO Dive",
    "tag": "Cyber",
    "date": "2026-10-14T18:40:00+00:00"
-  },
-  {
-   "title": "Researchers cig-nal their faith in AI by taking up smoking",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/14/researchers-cig-nal-their-faith-in-ai-by-taking-up-smoking/5303118",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-14T16:18:59+00:00"
   },
   {
    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -401,34 +407,6 @@
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-10-08T12:00:00+00:00"
-  },
-  {
-   "title": "The next frontier: Reengineering Indian enterprises for the agentic era",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-next-frontier-reengineering-indian-enterprises-for-the-agentic-era/134777924",
-   "source": "ET CIO",
-   "tag": "India",
-   "date": "2026-10-08T02:30:00+00:00"
-  },
-  {
-   "title": "SAP Showcases the Autonomous Enterprise in Action",
-   "link": "https://news.sap.com/2026/10/sap-connect-keynote-autonomous-enterprise-in-action/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-07T13:00:00+00:00"
-  },
-  {
-   "title": "SAP Accelerates Autonomous HCM",
-   "link": "https://news.sap.com/2026/10/sap-accelerates-autonomous-hcm/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-07T12:01:00+00:00"
-  },
-  {
-   "title": "AI Can Act. Can Your Business Follow Through?",
-   "link": "https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/",
-   "source": "SAP News",
-   "tag": "AI",
-   "date": "2026-10-07T12:00:00+00:00"
   }
  ]
 }
