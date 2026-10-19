@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T06:11:20.297481+00:00",
- "count": 57,
+ "generated_at": "2026-10-19T06:25:00.955013+00:00",
+ "count": 52,
  "tags": [
   "AI",
   "Cloud",
@@ -9,6 +9,27 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
+   "link": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-19T04:31:00+00:00"
+  },
+  {
+   "title": "Sovereign AI is driving a new era for cloud infrastructure",
+   "link": "https://cio.economictimes.indiatimes.com/news/digital-sovereignty/sovereign-ai-is-driving-a-new-era-for-cloud-infrastructure/135037840",
+   "source": "ET CIO",
+   "tag": "AI",
+   "date": "2026-10-19T02:30:00+00:00"
+  },
+  {
+   "title": "AWS Introduces Preview of Well-Architected Agent",
+   "link": "https://www.infoq.com/news/2026/10/aws-well-architected-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-18T14:29:00+00:00"
+  },
   {
    "title": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
    "link": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -157,27 +178,6 @@
    "date": "2026-10-16T09:00:00+00:00"
   },
   {
-   "title": "Chainguard Launches Secure Workspaces and Checks for AI Coding Agents",
-   "link": "https://www.infoq.com/news/2026/10/chainguard-workspaces-checks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-16T09:00:00+00:00"
-  },
-  {
-   "title": "Microsoft Commits Maia to Multi-Gigawatt Inference, and Its Efficiency Metric Draws Questions",
-   "link": "https://www.infoq.com/news/2026/10/azure-maia-300/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-10-16T06:02:00+00:00"
-  },
-  {
-   "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-   "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-16T05:16:46+00:00"
-  },
-  {
    "title": "Stop buying GPUs and start solving your full-stack AI strategy: Anindo Sengupta, Nutanix",
    "link": "https://cio.economictimes.indiatimes.com/news/cloud-computing/stop-buying-gpus-and-start-solving-your-full-stack-ai-strategy-anindo-sengupta-nutanix/134980416",
    "source": "ET CIO",
@@ -269,32 +269,11 @@
    "date": "2026-10-14T21:35:09+00:00"
   },
   {
-   "title": "Chaos ensues when AI interviewer meets AI interviewee",
-   "link": "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-14T20:53:37+00:00"
-  },
-  {
-   "title": "Linux kernel devs drop obligatory confession of AI tool usage",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-14T20:16:31+00:00"
-  },
-  {
    "title": "Dedicated AI officers, platforms lead businesses to ROI",
    "link": "https://www.ciodive.com/news/AI-officers-platforms-lead-ROI/833035/",
    "source": "CIO Dive",
    "tag": "AI",
    "date": "2026-10-14T19:36:59+00:00"
-  },
-  {
-   "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
-   "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-10-14T19:12:33+00:00"
   },
   {
    "title": "Businesses need better risk management to fend off cyberattacks",
@@ -393,20 +372,6 @@
    "source": "ET CIO",
    "tag": "AI",
    "date": "2026-10-10T02:30:00+00:00"
-  },
-  {
-   "title": "How Joule Work and SAP Business AI Platform Are Powering the Next Generation of Business AI",
-   "link": "https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-08T12:01:00+00:00"
-  },
-  {
-   "title": "SAP Expands Joule Assistants and Agents to Advance Autonomous Supply Chain Management",
-   "link": "https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-08T12:00:00+00:00"
   }
  ]
 }
