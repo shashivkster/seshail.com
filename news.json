@@ -1,28 +1,223 @@
 {
- "generated_at": "2026-10-21T06:11:49.004201+00:00",
+ "generated_at": "2026-10-22T06:16:40.296515+00:00",
  "count": 60,
  "tags": [
   "AI",
   "Cloud",
   "Cyber",
   "Enterprise systems",
-  "India",
-  "Sourcing"
+  "India"
  ],
  "items": [
+  {
+   "title": "CISOs, Your DLP Was Built to Say No. AI Needs You to Say Yes.",
+   "link": "https://cio.economictimes.indiatimes.com/podcast/cisos-your-dlp-was-built-to-say-no-ai-needs-you-to-say-yes-/135104604",
+   "source": "ET CIO",
+   "tag": "AI",
+   "date": "2026-10-22T02:30:00+00:00"
+  },
+  {
+   "title": "Tesla says it will start selling Cybercabs by end of year",
+   "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-10-22T00:17:54+00:00"
+  },
+  {
+   "title": "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
+   "link": "https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-10-21T23:02:57+00:00"
+  },
+  {
+   "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+   "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-21T22:45:34+00:00"
+  },
+  {
+   "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+   "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+   "source": "Ars Technica",
+   "tag": "Enterprise systems",
+   "date": "2026-10-21T21:48:52+00:00"
+  },
+  {
+   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-21T20:57:40+00:00"
+  },
+  {
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+   "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-21T20:27:41+00:00"
+  },
+  {
+   "title": "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-21T20:13:33+00:00"
+  },
+  {
+   "title": "SAP Announces Q3 2026 Results",
+   "link": "https://news.sap.com/2026/10/sap-announces-q3-2026-results/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-21T20:07:37+00:00"
+  },
+  {
+   "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+   "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-21T19:52:20+00:00"
+  },
+  {
+   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-21T19:30:00+00:00"
+  },
+  {
+   "title": "The internet is having a very bad cybersecurity day",
+   "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-10-21T19:03:28+00:00"
+  },
+  {
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-21T18:51:56+00:00"
+  },
+  {
+   "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
+   "link": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-21T18:22:20+00:00"
+  },
+  {
+   "title": "GM is giving OnStar an AI makeover",
+   "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-21T18:00:00+00:00"
+  },
+  {
+   "title": "AI will eat a fifth of tech budgets in 2027, but don't expect it to pay for itself",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-will-eat-a-fifth-of-tech-budgets-in-2027-but-dont-expect-it-to-pay-for-itself/5304466",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-21T17:30:00+00:00"
+  },
+  {
+   "title": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation",
+   "link": "https://www.infoq.com/news/2026/10/netflix-workload-attestation-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-21T13:45:00+00:00"
+  },
+  {
+   "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-21T12:43:00+00:00"
+  },
+  {
+   "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
+   "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-21T12:00:00+00:00"
+  },
+  {
+   "title": "Article Series: Agentic AI Architecture",
+   "link": "https://www.infoq.com/articles/agentic-ai-architecture-article-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-21T11:30:00+00:00"
+  },
+  {
+   "title": "Nvidia picks OpenShell to tame AI gents",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-21T11:30:00+00:00"
+  },
+  {
+   "title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
+   "link": "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-21T11:30:00+00:00"
+  },
+  {
+   "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools",
+   "link": "https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-21T11:15:00+00:00"
+  },
+  {
+   "title": "Boards confident on cyber oversight, but tech changes outpace readiness",
+   "link": "https://www.ciodive.com/news/corporate-boards-cybersecurity-ai-oversight-bdo/833523/",
+   "source": "CIO Dive",
+   "tag": "Cyber",
+   "date": "2026-10-21T11:00:00+00:00"
+  },
+  {
+   "title": "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction",
+   "link": "https://www.infoq.com/presentations/dora-ai-adoption-engineering-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-21T11:00:00+00:00"
+  },
+  {
+   "title": "Autonomous CX Arrives: What’s New in SAP Customer Experience Q3 2026",
+   "link": "https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-21T10:15:00+00:00"
+  },
+  {
+   "title": "Google SynthID Detector Simplifies Watermark Detection and Expands Support to Other AI Providers",
+   "link": "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-21T10:00:00+00:00"
+  },
+  {
+   "title": "Happiness is the next AI KPI if Oxford boffins have their way",
+   "link": "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-21T09:15:00+00:00"
+  },
+  {
+   "title": "Cilium 1.20 Expands Gateway API and Opens eBPF Datapath for Kubernetes",
+   "link": "https://www.infoq.com/news/2026/10/cilium-120-kubernetes-networking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-21T09:00:00+00:00"
+  },
   {
    "title": "Powering agentic AI: Why the new enterprise playbook belongs to ecosystem partnerships",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/powering-agentic-ai-why-the-new-enterprise-playbook-belongs-to-ecosystem-partnerships/135079969",
    "source": "ET CIO",
    "tag": "Enterprise systems",
    "date": "2026-10-21T02:30:00+00:00"
-  },
-  {
-   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-20T23:01:23+00:00"
   },
   {
    "title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
@@ -32,39 +227,11 @@
    "date": "2026-10-20T22:57:44+00:00"
   },
   {
-   "title": "Anthropic’s cloud partnerships are getting messy",
-   "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-10-20T21:25:22+00:00"
-  },
-  {
-   "title": "SpaceX’s AI business is beating expectations",
-   "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-20T20:40:41+00:00"
-  },
-  {
    "title": "How The Kraft Group uses AI for behavior management",
    "link": "https://www.ciodive.com/news/kraft-group-CIO-AI-trust/833529/",
    "source": "CIO Dive",
    "tag": "AI",
    "date": "2026-10-20T20:05:57+00:00"
-  },
-  {
-   "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-   "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-20T20:00:00+00:00"
-  },
-  {
-   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-20T18:38:24+00:00"
   },
   {
    "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
@@ -81,25 +248,11 @@
    "date": "2026-10-20T16:30:00+00:00"
   },
   {
-   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-   "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-20T16:20:06+00:00"
-  },
-  {
    "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
    "link": "https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149",
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-20T16:04:00+00:00"
-  },
-  {
-   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-   "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-20T16:00:00+00:00"
   },
   {
    "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
@@ -128,20 +281,6 @@
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-20T14:00:00+00:00"
-  },
-  {
-   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-   "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-20T13:07:24+00:00"
-  },
-  {
-   "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-   "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-20T13:00:00+00:00"
   },
   {
    "title": "Google Cloud says a 'power event' caused today's outage",
@@ -256,48 +395,6 @@
    "date": "2026-10-19T20:00:00+00:00"
   },
   {
-   "title": "Security patches need patches now that attackers have AI",
-   "link": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-19T18:23:40+00:00"
-  },
-  {
-   "title": "Write bot-resistant code with KillSwitch, a programming language designed to confuse LLMs",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/19/write-bot-resistant-code-with-killswitch-a-programming-language-designed-to-confuse-llms/5303919",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-19T17:10:47+00:00"
-  },
-  {
-   "title": "Europe’s cloud sovereignty rules could do more harm than good",
-   "link": "https://www.theregister.com/off-prem/2026/10/19/europes-cloud-sovereignty-rules-could-do-more-harm-than-good/5303890",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-10-19T16:35:00+00:00"
-  },
-  {
-   "title": "Uber dodges £340M cabbie lawsuit after drivers miss legal deadline",
-   "link": "https://www.theregister.com/offbeat/2026/10/19/uber-dodges-340m-cabbie-lawsuit-after-drivers-miss-legal-deadline/5303872",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-10-19T14:47:24+00:00"
-  },
-  {
-   "title": "SAP's Signavio hit with function injunction in Germany",
-   "link": "https://www.theregister.com/legal/2026/10/19/saps-signavio-hit-with-function-injunction-in-germany/5303835",
-   "source": "The Register",
-   "tag": "Enterprise systems",
-   "date": "2026-10-19T13:46:52+00:00"
-  },
-  {
-   "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
-   "link": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-19T12:15:48+00:00"
-  },
-  {
    "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance",
    "link": "https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/",
    "source": "SAP News",
@@ -319,20 +416,6 @@
    "date": "2026-10-19T11:00:00+00:00"
   },
   {
-   "title": "Podcast: The Future of Web Apps: Will AI Agents Generate UIs on the Fly?",
-   "link": "https://www.infoq.com/podcasts/future-web-apps/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-19T11:00:00+00:00"
-  },
-  {
-   "title": "Microsoft’s second-hand licensing appeal gets the brush-off",
-   "link": "https://www.theregister.com/legal/2026/10/19/microsofts-second-hand-licensing-appeal-gets-the-brush-off/5303718",
-   "source": "The Register",
-   "tag": "Sourcing",
-   "date": "2026-10-19T09:15:00+00:00"
-  },
-  {
    "title": "Your AI resolved the call. Did your customer get the right answer?",
    "link": "https://www.ciodive.com/spons/your-ai-resolved-the-call-did-your-customer-get-the-right-answer/833043/",
    "source": "CIO Dive",
@@ -340,95 +423,11 @@
    "date": "2026-10-19T09:00:00+00:00"
   },
   {
-   "title": "Buildkite Adds Scoped Secrets and New Agentic CI Tools",
-   "link": "https://www.infoq.com/news/2026/10/buildkite-ci-secrets-agentic/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-19T09:00:00+00:00"
-  },
-  {
-   "title": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-19T08:00:00+00:00"
-  },
-  {
-   "title": ".NET 11 Release Candidate 2: Go-Live License and Updates across Libraries, F#, MAUI, and WinForms",
-   "link": "https://www.infoq.com/news/2026/10/dotnet-11-rc-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Sourcing",
-   "date": "2026-10-19T08:00:00+00:00"
-  },
-  {
-   "title": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
-   "link": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-10-19T04:31:00+00:00"
-  },
-  {
    "title": "Sovereign AI is driving a new era for cloud infrastructure",
    "link": "https://cio.economictimes.indiatimes.com/news/digital-sovereignty/sovereign-ai-is-driving-a-new-era-for-cloud-infrastructure/135037840",
    "source": "ET CIO",
    "tag": "AI",
    "date": "2026-10-19T02:30:00+00:00"
-  },
-  {
-   "title": "AWS Introduces Preview of Well-Architected Agent",
-   "link": "https://www.infoq.com/news/2026/10/aws-well-architected-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-10-18T14:29:00+00:00"
-  },
-  {
-   "title": "AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours",
-   "link": "https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-10-18T05:30:00+00:00"
-  },
-  {
-   "title": "Cybercrims go beyond stealing data to attack physical building systems",
-   "link": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-10-17T11:30:00+00:00"
-  },
-  {
-   "title": "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
-   "link": "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-17T09:00:00+00:00"
-  },
-  {
-   "title": "OpenAI models hacked a crypto wallet and breached more websites",
-   "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-   "source": "Ars Technica",
-   "tag": "Cyber",
-   "date": "2026-10-16T20:59:01+00:00"
-  },
-  {
-   "title": "Agentic AI gap persists between executives, workers",
-   "link": "https://www.ciodive.com/news/agentic-gap-executives-workers/833289/",
-   "source": "CIO Dive",
-   "tag": "AI",
-   "date": "2026-10-16T20:02:30+00:00"
-  },
-  {
-   "title": "Stop buying GPUs and start solving your full-stack AI strategy: Anindo Sengupta, Nutanix",
-   "link": "https://cio.economictimes.indiatimes.com/news/cloud-computing/stop-buying-gpus-and-start-solving-your-full-stack-ai-strategy-anindo-sengupta-nutanix/134980416",
-   "source": "ET CIO",
-   "tag": "AI",
-   "date": "2026-10-16T02:30:00+00:00"
-  },
-  {
-   "title": "10 Questions Board Members Should Be Asking About Security and Compliance",
-   "link": "https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/",
-   "source": "SAP News",
-   "tag": "Cyber",
-   "date": "2026-10-15T11:15:00+00:00"
   }
  ]
 }
