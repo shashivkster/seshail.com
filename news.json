@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T06:10:09.125361+00:00",
+ "generated_at": "2026-10-24T06:05:29.485514+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -11,6 +11,111 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-23T23:05:49+00:00"
+  },
+  {
+   "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+   "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+   "source": "TechCrunch",
+   "tag": "Cloud",
+   "date": "2026-10-23T16:26:29+00:00"
+  },
+  {
+   "title": "AI models think humans are a bunch of amoral sheep",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-23T16:26:13+00:00"
+  },
+  {
+   "title": "Michigan prof creates Python-like Jac language for AI agents",
+   "link": "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-23T15:46:19+00:00"
+  },
+  {
+   "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+   "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-10-23T15:00:09+00:00"
+  },
+  {
+   "title": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
+   "link": "https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-23T14:30:00+00:00"
+  },
+  {
+   "title": "AWS Introduces Lambda Web Functions for Node.js Applications",
+   "link": "https://www.infoq.com/news/2026/10/aws-lambda-web-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-23T12:49:00+00:00"
+  },
+  {
+   "title": "Cloudflare Brings On-Demand CPU and Memory Profiling to Production Workers",
+   "link": "https://www.infoq.com/news/2026/10/cloudflare-cpu-memory-profiling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-23T12:00:00+00:00"
+  },
+  {
+   "title": "What’s keeping 5 tech executives up at night in the AI era",
+   "link": "https://www.ciodive.com/news/CIOs-share-concerns-AI/833789/",
+   "source": "CIO Dive",
+   "tag": "AI",
+   "date": "2026-10-23T11:45:00+00:00"
+  },
+  {
+   "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+   "link": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-23T11:31:00+00:00"
+  },
+  {
+   "title": "For the 12th Time, SAP Named a Leader in Gartner® Magic Quadrant™ for Digital Commerce Platforms",
+   "link": "https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-10-23T11:15:00+00:00"
+  },
+  {
+   "title": "Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization",
+   "link": "https://www.infoq.com/articles/multi-cloud-finops-cost-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-23T11:00:00+00:00"
+  },
+  {
+   "title": "Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects",
+   "link": "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cyber",
+   "date": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "title": "Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-23T07:29:00+00:00"
+  },
+  {
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+   "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-23T04:00:00+00:00"
+  },
   {
    "title": "Left alone with nothing to do, AI agents started playing",
    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -33,25 +138,11 @@
    "date": "2026-10-22T20:15:00+00:00"
   },
   {
-   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-   "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-22T19:07:09+00:00"
-  },
-  {
    "title": "The Foundations of Scalable AI",
    "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
    "source": "MIT Tech Review",
    "tag": "AI",
    "date": "2026-10-22T18:48:04+00:00"
-  },
-  {
-   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-22T18:43:53+00:00"
   },
   {
    "title": "Agentic AI helps hackers level up — even without detailed instructions",
@@ -66,20 +157,6 @@
    "source": "The Register",
    "tag": "India",
    "date": "2026-10-22T16:58:25+00:00"
-  },
-  {
-   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-   "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-   "source": "TechCrunch",
-   "tag": "Cyber",
-   "date": "2026-10-22T16:47:17+00:00"
-  },
-  {
-   "title": "Tesla is prepping a Cybercab onslaught",
-   "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-   "source": "TechCrunch",
-   "tag": "Cyber",
-   "date": "2026-10-22T15:44:39+00:00"
   },
   {
    "title": "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
@@ -222,22 +299,8 @@
    "date": "2026-10-21T12:00:00+00:00"
   },
   {
-   "title": "Article Series: Agentic AI Architecture",
-   "link": "https://www.infoq.com/articles/agentic-ai-architecture-article-series/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-21T11:30:00+00:00"
-  },
-  {
    "title": "Nvidia picks OpenShell to tame AI gents",
    "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-21T11:30:00+00:00"
-  },
-  {
-   "title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
-   "link": "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-21T11:30:00+00:00"
@@ -257,39 +320,11 @@
    "date": "2026-10-21T11:00:00+00:00"
   },
   {
-   "title": "Presentation: AI is an Amplifier: Scale High Performance, Not Dysfunction",
-   "link": "https://www.infoq.com/presentations/dora-ai-adoption-engineering-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-21T11:00:00+00:00"
-  },
-  {
    "title": "Autonomous CX Arrives: What’s New in SAP Customer Experience Q3 2026",
    "link": "https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/",
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-10-21T10:15:00+00:00"
-  },
-  {
-   "title": "Google SynthID Detector Simplifies Watermark Detection and Expands Support to Other AI Providers",
-   "link": "https://www.infoq.com/news/2026/10/synthid-watermarking-detector/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-21T10:00:00+00:00"
-  },
-  {
-   "title": "Happiness is the next AI KPI if Oxford boffins have their way",
-   "link": "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-21T09:15:00+00:00"
-  },
-  {
-   "title": "Cilium 1.20 Expands Gateway API and Opens eBPF Datapath for Kubernetes",
-   "link": "https://www.infoq.com/news/2026/10/cilium-120-kubernetes-networking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-10-21T09:00:00+00:00"
   },
   {
    "title": "Powering agentic AI: Why the new enterprise playbook belongs to ecosystem partnerships",
@@ -299,13 +334,6 @@
    "date": "2026-10-21T02:30:00+00:00"
   },
   {
-   "title": "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
-   "link": "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
-   "source": "The Register",
-   "tag": "India",
-   "date": "2026-10-20T22:57:44+00:00"
-  },
-  {
    "title": "How The Kraft Group uses AI for behavior management",
    "link": "https://www.ciodive.com/news/kraft-group-CIO-AI-trust/833529/",
    "source": "CIO Dive",
@@ -313,46 +341,11 @@
    "date": "2026-10-20T20:05:57+00:00"
   },
   {
-   "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
-   "link": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-10-20T17:33:26+00:00"
-  },
-  {
-   "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
-   "link": "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-10-20T16:30:00+00:00"
-  },
-  {
-   "title": "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-20T16:04:00+00:00"
-  },
-  {
-   "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
-   "link": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
-   "source": "The Register",
-   "tag": "Enterprise systems",
-   "date": "2026-10-20T15:30:00+00:00"
-  },
-  {
    "title": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified",
    "link": "https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/",
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-10-20T12:15:00+00:00"
-  },
-  {
-   "title": "AI billing spikes threaten businesses with operational strain",
-   "link": "https://www.ciodive.com/news/ai-billing-spikes-threaten-businesses-operational-strain/833397/",
-   "source": "CIO Dive",
-   "tag": "AI",
-   "date": "2026-10-20T12:00:00+00:00"
   },
   {
    "title": "The Suite Advantage: Why Enterprises Don’t Evaluate CRM in Isolation",
@@ -367,13 +360,6 @@
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-10-20T10:15:00+00:00"
-  },
-  {
-   "title": "AI risks, value remain unaligned for CIOs",
-   "link": "https://www.ciodive.com/news/gartner-keynote-symposium-2026/833398/",
-   "source": "CIO Dive",
-   "tag": "AI",
-   "date": "2026-10-19T20:21:00+00:00"
   },
   {
    "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance",
@@ -430,6 +416,20 @@
    "source": "ET CIO",
    "tag": "AI",
    "date": "2026-10-15T02:46:11+00:00"
+  },
+  {
+   "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+   "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+   "source": "Ars Technica",
+   "tag": "Cyber",
+   "date": "2026-10-14T21:35:09+00:00"
+  },
+  {
+   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+   "source": "Ars Technica",
+   "tag": "AI",
+   "date": "2026-10-14T12:55:06+00:00"
   }
  ]
 }
