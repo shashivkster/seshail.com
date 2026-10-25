@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T06:05:29.485514+00:00",
- "count": 60,
+ "generated_at": "2026-10-25T06:25:32.759970+00:00",
+ "count": 56,
  "tags": [
   "AI",
   "Cloud",
@@ -11,6 +11,41 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-24T20:15:33+00:00"
+  },
+  {
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-24T19:00:00+00:00"
+  },
+  {
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-24T15:00:00+00:00"
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-24T14:00:00+00:00"
+  },
+  {
+   "title": "Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing",
+   "link": "https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-24T08:10:00+00:00"
+  },
   {
    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -26,8 +61,8 @@
    "date": "2026-10-23T16:26:29+00:00"
   },
   {
-   "title": "AI models think humans are a bunch of amoral sheep",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+   "title": "AI models describe humans as a bunch of amoral sheep",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123",
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-23T16:26:13+00:00"
@@ -38,13 +73,6 @@
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-23T15:46:19+00:00"
-  },
-  {
-   "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-   "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-   "source": "TechCrunch",
-   "tag": "Cyber",
-   "date": "2026-10-23T15:00:09+00:00"
   },
   {
    "title": "CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS",
@@ -108,20 +136,6 @@
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-23T07:29:00+00:00"
-  },
-  {
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-   "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-23T04:00:00+00:00"
-  },
-  {
-   "title": "Left alone with nothing to do, AI agents started playing",
-   "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-23T00:45:37+00:00"
   },
   {
    "title": "Designing an AI serving harness built to last",
@@ -278,32 +292,11 @@
    "date": "2026-10-21T17:30:00+00:00"
   },
   {
-   "title": "Netflix Bridges AWS IAM and Internal Identity with Workload Attestation",
-   "link": "https://www.infoq.com/news/2026/10/netflix-workload-attestation-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-10-21T13:45:00+00:00"
-  },
-  {
    "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
    "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-21T12:43:00+00:00"
-  },
-  {
-   "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
-   "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-21T12:00:00+00:00"
-  },
-  {
-   "title": "Nvidia picks OpenShell to tame AI gents",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-21T11:30:00+00:00"
   },
   {
    "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools",
@@ -409,27 +402,6 @@
    "source": "SAP News",
    "tag": "AI",
    "date": "2026-10-15T10:15:00+00:00"
-  },
-  {
-   "title": "Cloud, AI and digital twins: Transforming defence infrastructure",
-   "link": "https://cio.economictimes.indiatimes.com/news/cloud-computing/cloud-ai-and-digital-twins-transforming-defence-infrastructure/134955731",
-   "source": "ET CIO",
-   "tag": "AI",
-   "date": "2026-10-15T02:46:11+00:00"
-  },
-  {
-   "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-   "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-   "source": "Ars Technica",
-   "tag": "Cyber",
-   "date": "2026-10-14T21:35:09+00:00"
-  },
-  {
-   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-   "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-   "source": "Ars Technica",
-   "tag": "AI",
-   "date": "2026-10-14T12:55:06+00:00"
   }
  ]
 }
