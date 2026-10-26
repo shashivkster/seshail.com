@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T06:25:32.759970+00:00",
+ "generated_at": "2026-10-26T06:34:54.389138+00:00",
  "count": 56,
  "tags": [
   "AI",
@@ -11,6 +11,62 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "The operations advantage: Why process transformation matters in the AI era",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-operations-advantage-why-process-transformation-matters-in-the-ai-era/135201109",
+   "source": "ET CIO",
+   "tag": "AI",
+   "date": "2026-10-26T02:40:40+00:00"
+  },
+  {
+   "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-26T00:39:57+00:00"
+  },
+  {
+   "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+   "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-10-25T20:20:08+00:00"
+  },
+  {
+   "title": "PHP Patches Two Critical RCE Flaws That Were Already Under Attack",
+   "link": "https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-25T18:07:00+00:00"
+  },
+  {
+   "title": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
+   "link": "https://www.infoq.com/news/2026/10/google-ml-drift/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-25T17:00:00+00:00"
+  },
+  {
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-25T16:57:32+00:00"
+  },
+  {
+   "title": "The hottest AI wearables and gadgets you should know about",
+   "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-25T14:10:00+00:00"
+  },
+  {
+   "title": "PingCAP Breach Exposes Customer Records and Source Code",
+   "link": "https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cyber",
+   "date": "2026-10-25T06:27:00+00:00"
+  },
   {
    "title": "Will AI expose the rickety infrastructure of the internet?",
    "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
@@ -52,13 +108,6 @@
    "source": "TechCrunch",
    "tag": "AI",
    "date": "2026-10-23T23:05:49+00:00"
-  },
-  {
-   "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-   "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-10-23T16:26:29+00:00"
   },
   {
    "title": "AI models describe humans as a bunch of amoral sheep",
@@ -194,13 +243,6 @@
    "date": "2026-10-22T11:00:00+00:00"
   },
   {
-   "title": "Presentation: Actors for Agents: Patterns for Production AI",
-   "link": "https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-22T11:00:00+00:00"
-  },
-  {
    "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
    "link": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
    "source": "The Register",
@@ -220,20 +262,6 @@
    "source": "The Register",
    "tag": "Delivery",
    "date": "2026-10-22T09:15:00+00:00"
-  },
-  {
-   "title": "Article: AI Changes the Data Interface, Not the Query Engine",
-   "link": "https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-22T09:00:00+00:00"
-  },
-  {
-   "title": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs",
-   "link": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-22T09:00:00+00:00"
   },
   {
    "title": "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
@@ -290,13 +318,6 @@
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-21T17:30:00+00:00"
-  },
-  {
-   "title": "AI cuts coding time, but it's also filling open source's inbox with crap",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-21T12:43:00+00:00"
   },
   {
    "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools",
@@ -381,27 +402,6 @@
    "source": "Ars Technica",
    "tag": "Cyber",
    "date": "2026-10-16T20:59:01+00:00"
-  },
-  {
-   "title": "Stop buying GPUs and start solving your full-stack AI strategy: Anindo Sengupta, Nutanix",
-   "link": "https://cio.economictimes.indiatimes.com/news/cloud-computing/stop-buying-gpus-and-start-solving-your-full-stack-ai-strategy-anindo-sengupta-nutanix/134980416",
-   "source": "ET CIO",
-   "tag": "AI",
-   "date": "2026-10-16T02:30:00+00:00"
-  },
-  {
-   "title": "10 Questions Board Members Should Be Asking About Security and Compliance",
-   "link": "https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/",
-   "source": "SAP News",
-   "tag": "Cyber",
-   "date": "2026-10-15T11:15:00+00:00"
-  },
-  {
-   "title": "From Two Weeks to Seconds: How Ericsson Is Reimagining B2B Commerce with AI",
-   "link": "https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai/",
-   "source": "SAP News",
-   "tag": "AI",
-   "date": "2026-10-15T10:15:00+00:00"
   }
  ]
 }
