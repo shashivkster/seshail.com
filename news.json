@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T07:11:48.378273+00:00",
+ "generated_at": "2026-11-01T07:44:35.426095+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -10,6 +10,90 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
+   "link": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-11-01T06:32:00+00:00"
+  },
+  {
+   "title": "Data centers are now a midterm issue, even in Brooklyn",
+   "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+   "source": "TechCrunch",
+   "tag": "Cloud",
+   "date": "2026-11-01T02:22:10+00:00"
+  },
+  {
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-10-31T21:41:00+00:00"
+  },
+  {
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "source": "TechCrunch",
+   "tag": "Cloud",
+   "date": "2026-10-31T21:17:03+00:00"
+  },
+  {
+   "title": "Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption",
+   "link": "https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-31T19:56:00+00:00"
+  },
+  {
+   "title": "OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements",
+   "link": "https://www.infoq.com/news/2026/10/openbsd-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cyber",
+   "date": "2026-10-31T17:00:00+00:00"
+  },
+  {
+   "title": "Google's AI satellite sends a very expensive haiku to Earth",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-31T15:36:14+00:00"
+  },
+  {
+   "title": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+   "link": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-10-31T13:30:00+00:00"
+  },
+  {
+   "title": "Amazon sends chills through its workforce with mixed message memo about AI use",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-10-31T11:00:00+00:00"
+  },
+  {
+   "title": "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out",
+   "link": "https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103",
+   "source": "The Register",
+   "tag": "Enterprise systems",
+   "date": "2026-10-31T09:30:00+00:00"
+  },
+  {
+   "title": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
+   "link": "https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-31T08:18:00+00:00"
+  },
+  {
+   "title": "LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced",
+   "link": "https://www.infoq.com/news/2026/10/localstack-azure-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-10-31T07:57:00+00:00"
+  },
   {
    "title": "Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs",
    "link": "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -109,32 +193,11 @@
    "date": "2026-10-30T16:08:00+00:00"
   },
   {
-   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-   "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-30T16:03:45+00:00"
-  },
-  {
-   "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-   "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-   "source": "TechCrunch",
-   "tag": "Cyber",
-   "date": "2026-10-30T14:00:25+00:00"
-  },
-  {
    "title": "NASA ponders a Hubble servicing mission or a controlled deorbit",
    "link": "https://www.theregister.com/science/2026/10/30/nasa-ponders-a-hubble-servicing-mission-or-a-controlled-deorbit/5306622",
    "source": "The Register",
    "tag": "India",
    "date": "2026-10-30T14:00:00+00:00"
-  },
-  {
-   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-   "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-30T13:54:25+00:00"
   },
   {
    "title": "DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents",
@@ -149,13 +212,6 @@
    "source": "The Register",
    "tag": "AI",
    "date": "2026-10-30T13:15:00+00:00"
-  },
-  {
-   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-   "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-30T13:00:00+00:00"
   },
   {
    "title": "NHS quango warns of risk to GP patient data after website vendor collapse",
@@ -277,13 +333,6 @@
    "date": "2026-10-29T12:10:00+00:00"
   },
   {
-   "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
-   "link": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-29T11:41:00+00:00"
-  },
-  {
    "title": "LibreOffice's 'no AI' stance meets LLM-assisted code",
    "link": "https://www.theregister.com/ai-and-ml/2026/10/29/libreoffices-no-ai-stance-meets-llm-assisted-code/5306084",
    "source": "The Register",
@@ -298,32 +347,11 @@
    "date": "2026-10-29T11:00:00+00:00"
   },
   {
-   "title": "QCon AI New York 2026 Program Committee Picks: Agent Identity, Context Costs, and Open-Source Infere",
-   "link": "https://www.infoq.com/news/2026/10/qcon-ai-newyork-2026-pc-picks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-29T11:00:00+00:00"
-  },
-  {
    "title": "We urgently need to monitor AI agents’ actions in real time",
    "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
    "source": "MIT Tech Review",
    "tag": "AI",
    "date": "2026-10-29T10:11:12+00:00"
-  },
-  {
-   "title": "Datadog Builds a Specialist AI Model for SRE Investigations",
-   "link": "https://www.infoq.com/news/2026/10/datadog-scout-sre-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-29T09:00:00+00:00"
-  },
-  {
-   "title": "Cloudflare Introduces Web Search API for AI Applications",
-   "link": "https://www.infoq.com/news/2026/10/cloudflare-web-search-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-10-29T07:14:00+00:00"
   },
   {
    "title": "Balancing AI and client trust: Essential guardrails for wealth management firms in 2023",
@@ -368,32 +396,11 @@
    "date": "2026-10-28T20:24:13+00:00"
   },
   {
-   "title": "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
-   "link": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-10-28T19:56:56+00:00"
-  },
-  {
-   "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-28T16:49:14+00:00"
-  },
-  {
    "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”",
    "link": "https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/",
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-10-28T16:30:00+00:00"
-  },
-  {
-   "title": "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
-   "link": "https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-10-28T15:52:17+00:00"
   },
   {
    "title": "The Download: dead startups fueling AI and interspecies communication",
@@ -422,13 +429,6 @@
    "source": "CIO Dive",
    "tag": "AI",
    "date": "2026-10-28T11:00:00+00:00"
-  },
-  {
-   "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities",
-   "link": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-28T08:00:00+00:00"
   }
  ]
 }
