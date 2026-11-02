@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T07:44:35.426095+00:00",
+ "generated_at": "2026-11-02T07:51:19.166744+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -10,6 +10,62 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "How India Drives SAP’s AI Future",
+   "link": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-02T05:15:00+00:00"
+  },
+  {
+   "title": "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
+   "link": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-02T04:39:50+00:00"
+  },
+  {
+   "title": "Nuclear energy&#039;s role in powering India&#039;s data centers: A realistic view on sustainability",
+   "link": "https://cio.economictimes.indiatimes.com/news/data-center/nuclear-energys-role-in-powering-indias-data-centers-a-realistic-view-on-sustainability/135442797",
+   "source": "ET CIO",
+   "tag": "Cloud",
+   "date": "2026-11-02T02:40:42+00:00"
+  },
+  {
+   "title": "Linus Torvalds says Linux kernel is out of ‘stabilization phase’ and using ‘much healthier model’ for AI contributions",
+   "link": "https://www.theregister.com/os-platforms/2026/11/01/linus-torvalds-says-linux-kernel-is-out-of-stabilization-phase-and-using-much-healthier-model-for-ai-contributions/5306852",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-01T23:11:41+00:00"
+  },
+  {
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source": "TechCrunch",
+   "tag": "Cloud",
+   "date": "2026-11-01T21:55:23+00:00"
+  },
+  {
+   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+   "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-01T20:57:58+00:00"
+  },
+  {
+   "title": "Binance resumes withdrawals following $6.3 billion breach",
+   "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-11-01T16:20:10+00:00"
+  },
+  {
+   "title": "AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved",
+   "link": "https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-11-01T08:03:00+00:00"
+  },
   {
    "title": "File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers",
    "link": "https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -123,13 +179,6 @@
    "date": "2026-10-30T22:56:13+00:00"
   },
   {
-   "title": "Cracks are emerging in the AI spending boom",
-   "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-30T21:17:40+00:00"
-  },
-  {
    "title": "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
    "link": "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782",
    "source": "The Register",
@@ -144,13 +193,6 @@
    "date": "2026-10-30T20:00:29+00:00"
   },
   {
-   "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-   "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-30T19:55:13+00:00"
-  },
-  {
    "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
    "link": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
    "source": "The Register",
@@ -163,27 +205,6 @@
    "source": "CIO Dive",
    "tag": "Cloud",
    "date": "2026-10-30T18:39:19+00:00"
-  },
-  {
-   "title": "Satlyt takes another step toward turning satellites into space data centers",
-   "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-10-30T18:01:24+00:00"
-  },
-  {
-   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-   "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-10-30T17:47:12+00:00"
-  },
-  {
-   "title": "Google’s first data center satellite is online and writing poetry",
-   "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-10-30T17:00:00+00:00"
   },
   {
    "title": "Hilton expects agentic AI to simplify the hotel customer experience",
@@ -368,13 +389,6 @@
    "date": "2026-10-29T02:29:30+00:00"
   },
   {
-   "title": "Google struggling to make AI Mode searches pay",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-10-29T01:12:24+00:00"
-  },
-  {
    "title": "CISA, security researchers confirm successful exploitation of PHP flaws",
    "link": "https://www.ciodive.com/news/cisa-security-researchers-exploitation-php-flaws/873116/",
    "source": "CIO Dive",
@@ -415,20 +429,6 @@
    "source": "MIT Tech Review",
    "tag": "AI",
    "date": "2026-10-28T12:00:00+00:00"
-  },
-  {
-   "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations",
-   "link": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-10-28T11:00:00+00:00"
-  },
-  {
-   "title": "AI regulation push gains steam ahead of midterms",
-   "link": "https://www.ciodive.com/news/ai-regulation-push-gains-steam-ahead-midterms/872929/",
-   "source": "CIO Dive",
-   "tag": "AI",
-   "date": "2026-10-28T11:00:00+00:00"
   }
  ]
 }
