@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T07:27:17.297856+00:00",
- "count": 54,
+ "generated_at": "2026-11-08T07:37:22.678572+00:00",
+ "count": 60,
  "tags": [
   "AI",
   "Cloud",
@@ -10,6 +10,41 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
+   "link": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-11-08T07:16:00+00:00"
+  },
+  {
+   "title": "Cloudflare Scales D1 Control Plane to Millions of Databases",
+   "link": "https://www.infoq.com/news/2026/11/cloudflare-d1-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-11-08T06:34:00+00:00"
+  },
+  {
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "source": "TechCrunch",
+   "tag": "Cloud",
+   "date": "2026-11-07T22:07:22+00:00"
+  },
+  {
+   "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-07T15:00:00+00:00"
+  },
+  {
+   "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+   "link": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-07T10:30:00+00:00"
+  },
   {
    "title": "Crusoe sells troubled Wyoming data center project to Google",
    "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -58,6 +93,13 @@
    "source": "InfoQ",
    "tag": "AI",
    "date": "2026-11-06T14:25:00+00:00"
+  },
+  {
+   "title": "New Research Finds AI Is Moving Faster Than Organizations Can Adapt",
+   "link": "https://news.sap.com/2026/11/new-economist-enterprise-research-ai-moving-faster-than-organizations-can-adapt/",
+   "source": "SAP News",
+   "tag": "AI",
+   "date": "2026-11-06T13:15:00+00:00"
   },
   {
    "title": "DigiCert admits 16-month security lapse exposed customer information",
@@ -123,14 +165,7 @@
    "date": "2026-11-06T09:00:00+00:00"
   },
   {
-   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-   "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-06T06:28:32+00:00"
-  },
-  {
-   "title": "Edera's Object Capability Bounded Authority Promises to Isolate Credentials From AI Agent Workloads",
+   "title": "Edera's Object Capability Bounded Authority Promises to Isolate Credentials from AI Agent Workloads",
    "link": "https://www.infoq.com/news/2026/11/ai-credentials-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "AI",
@@ -163,13 +198,6 @@
    "source": "Ars Technica",
    "tag": "Cyber",
    "date": "2026-11-05T23:09:36+00:00"
-  },
-  {
-   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-   "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-05T22:40:55+00:00"
   },
   {
    "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
@@ -228,6 +256,13 @@
    "date": "2026-11-05T13:10:00+00:00"
   },
   {
+   "title": "SAP Business One: 30 Years of Growing Together",
+   "link": "https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-05T12:15:00+00:00"
+  },
+  {
    "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
    "link": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
    "source": "The Register",
@@ -235,18 +270,11 @@
    "date": "2026-11-05T12:10:15+00:00"
   },
   {
-   "title": "Building a Culture for a Kubernetes-Based Platform in a Bank",
-   "link": "https://www.infoq.com/news/2026/11/culture-kubernetes-bank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-11-05T11:11:00+00:00"
-  },
-  {
-   "title": "Presentation: Zero Trust Agent Systems that Pass Audits and Still Ship",
-   "link": "https://www.infoq.com/presentations/zero-trust-ai-agents-production-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cyber",
-   "date": "2026-11-05T11:00:00+00:00"
+   "title": "Three Skills That Define the New Entry-Level Job in the AI Era",
+   "link": "https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/",
+   "source": "SAP News",
+   "tag": "AI",
+   "date": "2026-11-05T11:15:00+00:00"
   },
   {
    "title": "SAP promises to open out data flows in both directions",
@@ -312,11 +340,11 @@
    "date": "2026-11-04T18:50:55+00:00"
   },
   {
-   "title": "Bare metal boom: On-prem server sales for HPC and AI up 20% this year",
-   "link": "https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-04T17:30:00+00:00"
+   "title": "From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape",
+   "link": "https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-04T13:15:00+00:00"
   },
   {
    "title": "The Download: blended meat, restored sight, and the agentic web",
@@ -333,11 +361,25 @@
    "date": "2026-11-04T13:00:00+00:00"
   },
   {
+   "title": "New SAP Incentive Management, Starter Edition, Now Available",
+   "link": "https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-04T12:15:00+00:00"
+  },
+  {
    "title": "Midmarket organizations struggle to plug security gaps",
    "link": "https://www.ciodive.com/news/midmarket-organizations-struggle-to-plug-security-gaps/873653/",
    "source": "CIO Dive",
    "tag": "Cyber",
    "date": "2026-11-04T12:00:00+00:00"
+  },
+  {
+   "title": "Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness",
+   "link": "https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-04T08:00:00+00:00"
   },
   {
    "title": "How AI is rewiring the engine room of IT services",
@@ -354,6 +396,13 @@
    "date": "2026-11-03T21:14:04+00:00"
   },
   {
+   "title": "SAP Positioned as a Market Shaper in the Inaugural 2026 Gartner® Emerging Market Quadrant for Integrated Supply Chain AI Agents – Established Vendors",
+   "link": "https://news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-03T13:15:00+00:00"
+  },
+  {
    "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
    "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
    "source": "MIT Tech Review",
@@ -361,32 +410,25 @@
    "date": "2026-11-03T13:10:00+00:00"
   },
   {
+   "title": "Business Networks Harness Agentic AI to Bolster Collaboration and Operational Resilience Among Trading Partners",
+   "link": "https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/",
+   "source": "SAP News",
+   "tag": "AI",
+   "date": "2026-11-03T12:15:00+00:00"
+  },
+  {
+   "title": "SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster",
+   "link": "https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-03T09:00:00+00:00"
+  },
+  {
    "title": "The AI literacy gap between Indian CEOs and their teams is hurting adoption",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/the-ai-literacy-gap-between-indian-ceos-and-their-teams-is-hurting-adoption/135478992",
    "source": "ET CIO",
    "tag": "India",
    "date": "2026-11-03T02:30:00+00:00"
-  },
-  {
-   "title": "Nuclear energy&#039;s role in powering India&#039;s data centers: A realistic view on sustainability",
-   "link": "https://cio.economictimes.indiatimes.com/news/data-center/nuclear-energys-role-in-powering-indias-data-centers-a-realistic-view-on-sustainability/135442797",
-   "source": "ET CIO",
-   "tag": "Cloud",
-   "date": "2026-11-02T02:40:42+00:00"
-  },
-  {
-   "title": "Balancing AI and client trust: Essential guardrails for wealth management firms in 2023",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/achieving-client-trust-with-ai-the-importance-of-governance-in-wealth-management/135286662",
-   "source": "ET CIO",
-   "tag": "AI",
-   "date": "2026-10-29T02:30:00+00:00"
-  },
-  {
-   "title": "Which human skills become more valuable as AI becomes better at doing the work?",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/which-human-skills-become-more-valuable-as-ai-becomes-better-at-doing-the-work/135286786",
-   "source": "ET CIO",
-   "tag": "AI",
-   "date": "2026-10-29T02:29:30+00:00"
   }
  ]
 }
