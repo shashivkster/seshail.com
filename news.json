@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T07:37:22.678572+00:00",
+ "generated_at": "2026-11-09T08:15:07.832954+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -10,6 +10,41 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Pinterest Replaces Journey Clustering with 4B Qwen3 LLM, Reports Improved Engagement",
+   "link": "https://www.infoq.com/news/2026/11/pinterest-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-11-09T07:25:00+00:00"
+  },
+  {
+   "title": "Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”",
+   "link": "https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-09T05:15:00+00:00"
+  },
+  {
+   "title": "Exploring AI pilots to autonomous banking: How tech is reshaping the future of financial services",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/exploring-ai-pilots-to-autonomous-banking-how-tech-is-reshaping-the-future-of-financial-services/135668696",
+   "source": "ET CIO",
+   "tag": "AI",
+   "date": "2026-11-09T02:43:18+00:00"
+  },
+  {
+   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+   "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-11-08T17:30:00+00:00"
+  },
+  {
+   "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+   "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-11-08T17:02:00+00:00"
+  },
   {
    "title": "Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal",
    "link": "https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -67,28 +102,7 @@
    "date": "2026-11-06T20:37:19+00:00"
   },
   {
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-06T18:44:38+00:00"
-  },
-  {
-   "title": "After the midterms, is the AI industry in for a rough two years?",
-   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-06T17:23:52+00:00"
-  },
-  {
-   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-   "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-06T15:54:47+00:00"
-  },
-  {
-   "title": "Yelp Combines Native and Server-Driven UI for Its AI Assistant",
+   "title": "Yelp Combines Native and Server-Driven UI for its AI Assistant",
    "link": "https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "AI",
@@ -130,13 +144,6 @@
    "date": "2026-11-06T12:00:00+00:00"
   },
   {
-   "title": "Tesla will stop making the Cybertruck in 2027",
-   "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-   "source": "TechCrunch",
-   "tag": "Cyber",
-   "date": "2026-11-06T11:50:10+00:00"
-  },
-  {
    "title": "Bank of England pours cold water on AI productivity boom",
    "link": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
    "source": "The Register",
@@ -163,13 +170,6 @@
    "source": "InfoQ",
    "tag": "Enterprise systems",
    "date": "2026-11-06T09:00:00+00:00"
-  },
-  {
-   "title": "Edera's Object Capability Bounded Authority Promises to Isolate Credentials from AI Agent Workloads",
-   "link": "https://www.infoq.com/news/2026/11/ai-credentials-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-11-06T06:06:00+00:00"
   },
   {
    "title": "AI agents are a 'bane' for some website operators, says Cloudflare",
@@ -242,13 +242,6 @@
    "date": "2026-11-05T16:30:00+00:00"
   },
   {
-   "title": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
-   "link": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-11-05T16:00:00+00:00"
-  },
-  {
    "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
    "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
    "source": "MIT Tech Review",
@@ -298,13 +291,6 @@
    "date": "2026-11-05T02:30:00+00:00"
   },
   {
-   "title": "Building AI factories at enterprise scale",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629",
-   "source": "The Register",
-   "tag": "Enterprise systems",
-   "date": "2026-11-05T00:01:00+00:00"
-  },
-  {
    "title": "Hackers exploited iOS and Android flaws to infect phones",
    "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
    "source": "Ars Technica",
@@ -317,13 +303,6 @@
    "source": "CIO Dive",
    "tag": "Cyber",
    "date": "2026-11-04T22:04:00+00:00"
-  },
-  {
-   "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
-   "link": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-11-04T21:49:38+00:00"
   },
   {
    "title": "What does a midterm power shift mean for AI policy?",
@@ -429,6 +408,27 @@
    "source": "ET CIO",
    "tag": "India",
    "date": "2026-11-03T02:30:00+00:00"
+  },
+  {
+   "title": "AI and Transformation Guidance for Every Customer",
+   "link": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
+   "source": "SAP News",
+   "tag": "AI",
+   "date": "2026-11-02T12:15:00+00:00"
+  },
+  {
+   "title": "How India Drives SAP’s AI Future",
+   "link": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-02T05:15:00+00:00"
+  },
+  {
+   "title": "Nuclear energy&#039;s role in powering India&#039;s data centers: A realistic view on sustainability",
+   "link": "https://cio.economictimes.indiatimes.com/news/data-center/nuclear-energys-role-in-powering-indias-data-centers-a-realistic-view-on-sustainability/135442797",
+   "source": "ET CIO",
+   "tag": "Cloud",
+   "date": "2026-11-02T02:40:42+00:00"
   }
  ]
 }
