@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T07:44:54.724248+00:00",
+ "generated_at": "2026-11-15T08:01:28.261422+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -10,6 +10,34 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Cloudflare Introduces Private Origins for Application Services",
+   "link": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-11-15T06:18:00+00:00"
+  },
+  {
+   "title": "Where was Nvidia’s security team?",
+   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-11-15T00:08:07+00:00"
+  },
+  {
+   "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+   "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-11-14T20:04:44+00:00"
+  },
+  {
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-14T17:30:00+00:00"
+  },
   {
    "title": "Google Cloud Moves the Compute Engine API to Immutable Date-Based Versions",
    "link": "https://www.infoq.com/news/2026/11/compute-engine-api-versioning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -165,13 +193,6 @@
    "date": "2026-11-12T21:33:58+00:00"
   },
   {
-   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-   "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-11-12T21:27:10+00:00"
-  },
-  {
    "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
    "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
    "source": "The Register",
@@ -184,13 +205,6 @@
    "source": "CIO Dive",
    "tag": "Enterprise systems",
    "date": "2026-11-12T20:11:18+00:00"
-  },
-  {
-   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-   "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-12T19:11:00+00:00"
   },
   {
    "title": "Software Samaritan revamps borked Indian certs to block smart TV ads",
@@ -263,13 +277,6 @@
    "date": "2026-11-12T09:00:00+00:00"
   },
   {
-   "title": "LinkedIn Replaces Argo CD with a Custom GitOps Engine for Kubernetes Deployments",
-   "link": "https://www.infoq.com/news/2026/11/kubernetes-argocd-linkedin/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-11-12T09:00:00+00:00"
-  },
-  {
    "title": "AWS distills its cloud into a local emulator that runs on your PC",
    "link": "https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251",
    "source": "The Register",
@@ -310,13 +317,6 @@
    "source": "CIO Dive",
    "tag": "AI",
    "date": "2026-11-11T20:01:00+00:00"
-  },
-  {
-   "title": "GitHub Makes Agentic Workflows Generally Available with Isolation and Budget Controls",
-   "link": "https://www.infoq.com/news/2026/11/github-agentic-workflows-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-11-11T17:00:00+00:00"
   },
   {
    "title": "The Download: preserving minds and weighing open AI risks",
