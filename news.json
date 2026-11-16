@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T08:01:28.261422+00:00",
+ "generated_at": "2026-11-16T08:10:37.620599+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -10,6 +10,62 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Microsoft’s Azure Linux dons Fedora to dress itself up for mainstream workloads",
+   "link": "https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016",
+   "source": "The Register",
+   "tag": "Cloud",
+   "date": "2026-11-16T06:04:02+00:00"
+  },
+  {
+   "title": "India’s Rise: From Promise to Platform for Global Growth",
+   "link": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth/",
+   "source": "SAP News",
+   "tag": "India",
+   "date": "2026-11-16T05:15:00+00:00"
+  },
+  {
+   "title": "AI solved the scarcity of code. What scarcity comes next?",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-solved-the-scarcity-of-code-what-scarcity-comes-next/135869910",
+   "source": "ET CIO",
+   "tag": "AI",
+   "date": "2026-11-16T02:30:00+00:00"
+  },
+  {
+   "title": "Apple launches new app to study how people use AI for health",
+   "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-16T01:30:00+00:00"
+  },
+  {
+   "title": "Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China",
+   "link": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
+   "source": "The Register",
+   "tag": "India",
+   "date": "2026-11-15T23:46:01+00:00"
+  },
+  {
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source": "TechCrunch",
+   "tag": "India",
+   "date": "2026-11-15T23:30:00+00:00"
+  },
+  {
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-15T21:56:35+00:00"
+  },
+  {
+   "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
+   "link": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-11-15T20:00:00+00:00"
+  },
   {
    "title": "Cloudflare Introduces Private Origins for Application Services",
    "link": "https://www.infoq.com/news/2026/11/cloudflare-private-origins/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -95,20 +151,6 @@
    "date": "2026-11-13T19:37:57+00:00"
   },
   {
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-13T18:40:30+00:00"
-  },
-  {
-   "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-   "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-13T16:00:12+00:00"
-  },
-  {
    "title": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri",
    "link": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
@@ -116,25 +158,11 @@
    "date": "2026-11-13T16:00:00+00:00"
   },
   {
-   "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-   "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-   "source": "TechCrunch",
-   "tag": "Cyber",
-   "date": "2026-11-13T14:57:55+00:00"
-  },
-  {
    "title": "Google Open Sources Ambient Quality Agent (AQuA) to Diagnose Production AI Agent Failures",
    "link": "https://www.infoq.com/news/2026/11/google-ambient-agent-prod/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "AI",
    "date": "2026-11-13T13:53:00+00:00"
-  },
-  {
-   "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-   "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-11-13T13:15:20+00:00"
   },
   {
    "title": "SAP Named a Leader in Two 2026 IDC MarketScapes: Worldwide Warehouse Management for Manufacturing and for Retail",
@@ -172,7 +200,7 @@
    "date": "2026-11-13T07:31:00+00:00"
   },
   {
-   "title": "Dropbox Shares How Its In-House Cookie Auditor Tests Consent Behaviour Across 200+ Web Surfaces",
+   "title": "Dropbox Shares How its In-House Cookie Auditor Tests Consent Behaviour across 200+ Web Surfaces",
    "link": "https://www.infoq.com/news/2026/11/dropbox-cookie-auditor/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Sourcing",
@@ -256,32 +284,11 @@
    "date": "2026-11-12T11:00:00+00:00"
   },
   {
-   "title": "Azure Logic Apps Standard Gets a Local CLI in Preview",
-   "link": "https://www.infoq.com/news/2026/11/logic-apps-local-cli/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-11-12T10:23:00+00:00"
-  },
-  {
    "title": "Orbit Global Menu: A working global menu addon for GNOME",
    "link": "https://www.theregister.com/os-platforms/2026/11/12/orbit-global-menu-a-working-global-menu-addon-for-gnome/5309134",
    "source": "The Register",
    "tag": "India",
    "date": "2026-11-12T10:14:00+00:00"
-  },
-  {
-   "title": "Your AI agent is only as good as your endpoint data",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-12T09:00:00+00:00"
-  },
-  {
-   "title": "AWS distills its cloud into a local emulator that runs on your PC",
-   "link": "https://www.theregister.com/off-prem/2026/11/12/aws-distills-its-cloud-into-a-local-emulator-that-runs-on-your-pc/5309251",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-11-12T05:47:31+00:00"
   },
   {
    "title": "Your AI agents are ready for business. Is your business ready to own them?",
@@ -296,13 +303,6 @@
    "source": "ET CIO",
    "tag": "AI",
    "date": "2026-11-12T02:41:34+00:00"
-  },
-  {
-   "title": "Russian cloud Yandex says drone attacks on its datacenters caused data loss",
-   "link": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234",
-   "source": "The Register",
-   "tag": "Cloud",
-   "date": "2026-11-12T01:10:24+00:00"
   },
   {
    "title": "AI will drive a 1.7M job boost, with big changes ahead for IT",
