@@ -1,18 +1,201 @@
 {
- "generated_at": "2026-11-18T08:43:44.515887+00:00",
+ "generated_at": "2026-11-19T08:58:51.300568+00:00",
  "count": 60,
  "tags": [
   "AI",
   "Cloud",
   "Cyber",
+  "Data",
   "Enterprise systems",
   "India",
   "Sourcing"
  ],
  "items": [
   {
+   "title": "GTA VI didn’t break the internet, thanks to ‘stupid DNS tricks’",
+   "link": "https://www.theregister.com/networks/2026/11/19/gta-vi-didnt-break-the-internet-thanks-to-stupid-dns-tricks/5310950",
+   "source": "The Register",
+   "tag": "India",
+   "date": "2026-11-19T05:57:30+00:00"
+  },
+  {
+   "title": "Microsoft unveils Windows Server 2028 with enhanced security, AI, and management",
+   "link": "https://cio.economictimes.indiatimes.com/news/cloud-computing/microsoft-unveils-windows-server-2028-with-enhanced-security-ai-and-management/135975827",
+   "source": "ET CIO",
+   "tag": "Cyber",
+   "date": "2026-11-19T02:48:41+00:00"
+  },
+  {
+   "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+   "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-18T23:45:00+00:00"
+  },
+  {
+   "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+   "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-18T22:58:11+00:00"
+  },
+  {
+   "title": "Get ready for another critical PHP security release to drop",
+   "link": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-18T22:38:12+00:00"
+  },
+  {
+   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+   "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-11-18T21:34:13+00:00"
+  },
+  {
+   "title": "AI found more critical bugs in another widely used technology running 225M websites",
+   "link": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-18T21:11:04+00:00"
+  },
+  {
+   "title": "Microsoft expands Azure arsenal at Ignite",
+   "link": "https://www.ciodive.com/news/microsoft-expands-azure-arsenal-ignite/875125/",
+   "source": "CIO Dive",
+   "tag": "Cloud",
+   "date": "2026-11-18T21:04:03+00:00"
+  },
+  {
+   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+   "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-18T19:56:39+00:00"
+  },
+  {
+   "title": "Google’s AI feature in Search gets its own incognito mode",
+   "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-18T18:04:05+00:00"
+  },
+  {
+   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+   "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-18T17:32:10+00:00"
+  },
+  {
+   "title": "MongoDB snaps up Firebolt to bring transactions and analytics under one roof",
+   "link": "https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809",
+   "source": "The Register",
+   "tag": "Data",
+   "date": "2026-11-18T17:02:00+00:00"
+  },
+  {
+   "title": "The wrong setting for AI cache can cost you a lot of cash",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-18T16:17:00+00:00"
+  },
+  {
+   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+   "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-18T16:14:09+00:00"
+  },
+  {
+   "title": "Cyber insurers now want proof you can actually recover",
+   "link": "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-18T16:00:00+00:00"
+  },
+  {
+   "title": "AI-powered cyber threats are changing the rules of enterprise recovery",
+   "link": "https://www.theregister.com/security/2026/11/18/sponsored-ai-powered-cyber-threats-are-changing-the-rules-of-enterprise-recovery/5310515",
+   "source": "The Register",
+   "tag": "Enterprise systems",
+   "date": "2026-11-18T15:00:00+00:00"
+  },
+  {
+   "title": "The AI Hype Index: AI is everywhere",
+   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+   "source": "MIT Tech Review",
+   "tag": "AI",
+   "date": "2026-11-18T14:42:44+00:00"
+  },
+  {
+   "title": "The Download: AI learns to smell and hydropower struggles",
+   "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+   "source": "MIT Tech Review",
+   "tag": "AI",
+   "date": "2026-11-18T13:10:00+00:00"
+  },
+  {
+   "title": "Want to combat AI brainrot? PwC is piloting a way to do so.",
+   "link": "https://www.ciodive.com/news/pwc-critical-thinking-assessment/874982/",
+   "source": "CIO Dive",
+   "tag": "AI",
+   "date": "2026-11-18T12:00:00+00:00"
+  },
+  {
+   "title": "ULA says Vulcan lacked the oomph to get Amazon satellites to orbit",
+   "link": "https://www.theregister.com/science/2026/11/18/ula-says-vulcan-lacked-the-oomph-to-get-amazon-satellites-to-orbit/5310712",
+   "source": "The Register",
+   "tag": "India",
+   "date": "2026-11-18T11:46:00+00:00"
+  },
+  {
+   "title": "SAP Recognized as a Customers’ Choice in the 2026 Gartner Peer Insights™ Voice of the Customer for Talent Acquisition (Recruiting) Suites",
+   "link": "https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-18T11:15:00+00:00"
+  },
+  {
+   "title": "Presentation: Behind Booking.com's AI Evolution: The Unpolished Story",
+   "link": "https://www.infoq.com/presentations/bookingcom-ml-data-platform-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-11-18T11:00:00+00:00"
+  },
+  {
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "source": "MIT Tech Review",
+   "tag": "AI",
+   "date": "2026-11-18T10:20:30+00:00"
+  },
+  {
+   "title": "SAP opens AI to on-prem customers, but cloud commitments could shut smaller firms out",
+   "link": "https://www.theregister.com/applications/2026/11/18/sap-opens-ai-to-on-prem-customers-but-cloud-commitments-could-shut-smaller-firms-out/5310056",
+   "source": "The Register",
+   "tag": "Enterprise systems",
+   "date": "2026-11-18T10:14:00+00:00"
+  },
+  {
+   "title": "UK MPs want AI watchdog with power to pull the plug on dangerous models",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/18/uk-mps-want-ai-watchdog-with-power-to-pull-the-plug-on-dangerous-models/5310567",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-18T09:30:00+00:00"
+  },
+  {
+   "title": "AWS PrivateLink Tunnel Endpoints Open a Whole CIDR Range to Another Account",
+   "link": "https://www.infoq.com/news/2026/11/aws-privatelink-tunnel-endpoints/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-11-18T09:29:00+00:00"
+  },
+  {
    "title": "A Chinese bottle-cap manufacturer brilliantly deflated AI hype",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
+   "link": "https://www.theregister.com/columnists/2026/11/18/a-chinese-bottle-cap-manufacturer-brilliantly-deflated-ai-hype/5310651",
    "source": "The Register",
    "tag": "AI",
    "date": "2026-11-18T06:32:00+00:00"
@@ -32,13 +215,6 @@
    "date": "2026-11-18T02:30:00+00:00"
   },
   {
-   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-17T23:04:35+00:00"
-  },
-  {
    "title": "Chief AI officers lack control over enterprise AI investment decisions",
    "link": "https://www.ciodive.com/news/chief-ai-officers-lack-control-decision-making/874970/",
    "source": "CIO Dive",
@@ -53,20 +229,6 @@
    "date": "2026-11-17T19:52:57+00:00"
   },
   {
-   "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
-   "link": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
-   "source": "TechCrunch",
-   "tag": "Cloud",
-   "date": "2026-11-17T18:55:40+00:00"
-  },
-  {
-   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-   "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-17T18:04:16+00:00"
-  },
-  {
    "title": "Inspiring FOSS project Crosspoint Reader has lessons about tech, communities, and LLMs",
    "link": "https://www.theregister.com/software/2026/11/17/inspiring-foss-project-crosspoint-reader-has-lessons-about-tech-communities-and-llms/5310424",
    "source": "The Register",
@@ -74,25 +236,11 @@
    "date": "2026-11-17T17:45:00+00:00"
   },
   {
-   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-   "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-17T17:20:41+00:00"
-  },
-  {
    "title": "SAP's cloud migration chief is migrating to Ionos as CEO",
    "link": "https://www.theregister.com/software/2026/11/17/saps-cloud-migration-chief-is-migrating-to-ionos-as-ceo/5310530",
    "source": "The Register",
    "tag": "Cloud",
    "date": "2026-11-17T17:13:28+00:00"
-  },
-  {
-   "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-   "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-17T16:32:55+00:00"
   },
   {
    "title": "Hackers smash 'n' grab AI vendor: Take  off with license data of Uber drivers",
@@ -179,13 +327,6 @@
    "date": "2026-11-17T08:00:00+00:00"
   },
   {
-   "title": "Japan's Fugaku supercomputer has decidedly un-super security",
-   "link": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-11-17T05:27:04+00:00"
-  },
-  {
    "title": "Why enterprise AI success takes more than deploying a few AI agents",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/why-enterprise-ai-success-takes-more-than-deploying-a-few-ai-agents/135907820",
    "source": "ET CIO",
@@ -193,60 +334,11 @@
    "date": "2026-11-17T02:36:54+00:00"
   },
   {
-   "title": "California sues OpenAI for misleading public about AI safety",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/16/california-sues-openai-for-misleading-public-about-ai-safety/5310297",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-16T23:43:17+00:00"
-  },
-  {
-   "title": "Infoblox customer and staff data exposed in Sharepoint breach",
-   "link": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-11-16T21:53:28+00:00"
-  },
-  {
    "title": "Data silos threaten banks’ competitive edge in AI",
    "link": "https://www.ciodive.com/news/banks-running-out-time-benefit-ai-mckinsey/874818/",
    "source": "CIO Dive",
    "tag": "AI",
    "date": "2026-11-16T21:13:04+00:00"
-  },
-  {
-   "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-16T19:52:00+00:00"
-  },
-  {
-   "title": "HTML-in-Canvas ships and could make the web a lot more creative...and a lot stupider",
-   "link": "https://www.theregister.com/devops/2026/11/16/html-in-canvas-ships-and-could-make-the-web-a-lot-more-creativeand-a-lot-stupider/5310135",
-   "source": "The Register",
-   "tag": "India",
-   "date": "2026-11-16T19:33:00+00:00"
-  },
-  {
-   "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
-   "link": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-11-16T18:01:00+00:00"
-  },
-  {
-   "title": "Crook turns LearnWorlds' free trials into phishing factory, sends 13,000 fake YouTube copyright notices",
-   "link": "https://www.theregister.com/security/2026/11/16/crook-turns-learnworlds-free-trials-into-phishing-factory-sends-13000-fake-youtube-copyright-notices/5310122",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-11-16T17:03:00+00:00"
-  },
-  {
-   "title": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)",
-   "link": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-16T16:15:00+00:00"
   },
   {
    "title": "Building trustworthy AI by fencing it in, not predicting it",
@@ -277,60 +369,11 @@
    "date": "2026-11-16T14:37:00+00:00"
   },
   {
-   "title": "Google: AI agent turned a security patch into a working exploit with no human help",
-   "link": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-16T14:00:00+00:00"
-  },
-  {
-   "title": "The Jensen Huang saga could be the beginning of the end of the AI bubble – or just a boon for competitors",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/16/the-jensen-huang-saga-could-be-the-beginning-of-the-end-of-the-ai-bubble-or-just-a-boon-for-competitors/5309856",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-16T13:30:00+00:00"
-  },
-  {
-   "title": "Building AI that can work across the enterprise",
-   "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
-   "source": "MIT Tech Review",
-   "tag": "Enterprise systems",
-   "date": "2026-11-16T13:00:00+00:00"
-  },
-  {
    "title": "Order Management Built Straight into SAP",
    "link": "https://news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream/",
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-11-16T12:15:00+00:00"
-  },
-  {
-   "title": "AWS Open-Sources Emulator for Local Testing of 200+ Services by Coding Agents",
-   "link": "https://www.infoq.com/news/2026/11/aws-emulator-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-11-16T10:40:00+00:00"
-  },
-  {
-   "title": "GitHub Rebuilds the Copilot App's Diff Surface to Open Million-Line Pull Requests without Jank",
-   "link": "https://www.infoq.com/news/2026/11/github-pull-requests-rebuild/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-11-16T10:32:00+00:00"
-  },
-  {
-   "title": "The physics of agentic scale: Why full-stack co-design matters",
-   "link": "https://www.ciodive.com/spons/the-physics-of-agentic-scale-why-full-stack-co-design-matters/874197/",
-   "source": "CIO Dive",
-   "tag": "AI",
-   "date": "2026-11-16T10:00:00+00:00"
-  },
-  {
-   "title": "AWS Nitro Sandboxes Put Each EKS Pod in its Own MicroVM with One RuntimeClass Field",
-   "link": "https://www.infoq.com/news/2026/11/aws-nitro-sandboxes-eks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Cloud",
-   "date": "2026-11-16T09:07:00+00:00"
   },
   {
    "title": "India’s Rise: From Promise to Platform for Global Growth",
@@ -345,20 +388,6 @@
    "source": "ET CIO",
    "tag": "AI",
    "date": "2026-11-16T02:30:00+00:00"
-  },
-  {
-   "title": "Microsoft 365 outage underscores enterprise resiliency issues",
-   "link": "https://www.ciodive.com/news/microsoft-outage-enterprise-resiliancy/874695/",
-   "source": "CIO Dive",
-   "tag": "Enterprise systems",
-   "date": "2026-11-13T21:19:35+00:00"
-  },
-  {
-   "title": "Companies struggle to know what normal looks like for AI agents",
-   "link": "https://www.ciodive.com/news/ai-agents-normal-baseline-security-governance/874676/",
-   "source": "CIO Dive",
-   "tag": "AI",
-   "date": "2026-11-13T20:58:00+00:00"
   },
   {
    "title": "SAP Named a Leader in Two 2026 IDC MarketScapes: Worldwide Warehouse Management for Manufacturing and for Retail",
@@ -401,34 +430,6 @@
    "source": "ET CIO",
    "tag": "AI",
    "date": "2026-11-12T02:41:34+00:00"
-  },
-  {
-   "title": "SAP and VFC Open Intelligent Fashion Store",
-   "link": "https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-11-11T13:00:00+00:00"
-  },
-  {
-   "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI",
-   "link": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/",
-   "source": "SAP News",
-   "tag": "AI",
-   "date": "2026-11-11T11:15:00+00:00"
-  },
-  {
-   "title": "India&#039;s sovereign AI ambitions must go beyond building models",
-   "link": "https://cio.economictimes.indiatimes.com/news/digital-sovereignty/indias-sovereign-ai-ambitions-must-go-beyond-building-models/135722874",
-   "source": "ET CIO",
-   "tag": "AI",
-   "date": "2026-11-11T02:30:00+00:00"
-  },
-  {
-   "title": "Supply Chain AI Must Do More Than Inform; It Must Help Businesses Act",
-   "link": "https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/",
-   "source": "SAP News",
-   "tag": "AI",
-   "date": "2026-11-10T12:15:00+00:00"
   }
  ]
 }
