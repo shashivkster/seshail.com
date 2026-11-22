@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T08:27:51.878846+00:00",
+ "generated_at": "2026-11-22T08:20:45.824452+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -10,6 +10,48 @@
   "India"
  ],
  "items": [
+  {
+   "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+   "link": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-11-22T06:30:00+00:00"
+  },
+  {
+   "title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+   "link": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-11-22T06:27:00+00:00"
+  },
+  {
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-21T21:37:10+00:00"
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-21T17:00:00+00:00"
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-21T16:00:00+00:00"
+  },
+  {
+   "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+   "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+   "source": "The Register",
+   "tag": "Cloud",
+   "date": "2026-11-21T14:35:00+00:00"
+  },
   {
    "title": "NASA Mars rover and orbiter suffer glitches",
    "link": "https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360",
@@ -235,20 +277,6 @@
    "date": "2026-11-20T00:56:01+00:00"
   },
   {
-   "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-   "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-19T22:33:26+00:00"
-  },
-  {
-   "title": "These tech outages are giving Y2K, AI agent style",
-   "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-19T21:42:31+00:00"
-  },
-  {
    "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
    "link": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
    "source": "The Register",
@@ -326,13 +354,6 @@
    "date": "2026-11-19T11:13:01+00:00"
   },
   {
-   "title": "Producing Healthy Code with Artificial Intelligence Costs Fewer Tokens",
-   "link": "https://www.infoq.com/news/2026/11/healthy-code-AI-tokens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-11-19T11:09:00+00:00"
-  },
-  {
    "title": "Uncensored AI models are thriving on code hosting platforms",
    "link": "https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891",
    "source": "The Register",
@@ -382,20 +403,6 @@
    "date": "2026-11-18T17:02:00+00:00"
   },
   {
-   "title": "The wrong setting for AI cache can cost you a lot of cash",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-18T16:17:00+00:00"
-  },
-  {
-   "title": "Cyber insurers now want proof you can actually recover",
-   "link": "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-11-18T16:00:00+00:00"
-  },
-  {
    "title": "The AI Hype Index: AI is everywhere",
    "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
    "source": "MIT Tech Review",
@@ -422,13 +429,6 @@
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-11-18T11:15:00+00:00"
-  },
-  {
-   "title": "This smell startup says its AI nose is as good as a human’s",
-   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-11-18T10:20:30+00:00"
   }
  ]
 }
