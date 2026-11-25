@@ -1,21 +1,204 @@
 {
- "generated_at": "2026-11-24T11:15:06.862192+00:00",
- "count": 42,
+ "generated_at": "2026-11-25T10:00:13.220712+00:00",
+ "count": 60,
  "tags": [
   "AI",
   "Cloud",
   "Cyber",
   "Data",
   "Enterprise systems",
-  "India"
+  "India",
+  "Sourcing"
  ],
  "items": [
+  {
+   "title": "Government may apply TV license fee to streaming services to fund the BBC",
+   "link": "https://www.theregister.com/offbeat/2026/11/25/government-may-apply-tv-license-fee-to-streaming-services-to-fund-the-bbc/5311928",
+   "source": "The Register",
+   "tag": "Sourcing",
+   "date": "2026-11-25T09:30:00+00:00"
+  },
+  {
+   "title": "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15",
+   "link": "https://www.infoq.com/news/2026/11/aws-lambda-30-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "Cloud",
+   "date": "2026-11-25T07:02:00+00:00"
+  },
+  {
+   "title": "Enterprise AI needs product thinking, not more models",
+   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/enterprise-ai-needs-product-thinking-not-more-models/136146102",
+   "source": "ET CIO",
+   "tag": "Enterprise systems",
+   "date": "2026-11-25T02:30:00+00:00"
+  },
+  {
+   "title": "Even the best AI agents struggle with everyday life",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-24T21:33:29+00:00"
+  },
+  {
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-24T21:32:38+00:00"
+  },
+  {
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-24T21:19:52+00:00"
+  },
+  {
+   "title": "AI godfather Yann LeCun torches Anthropic CEO over AI gatekeeping",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-24T20:57:08+00:00"
+  },
+  {
+   "title": "Executives get more AI training than other workers, hurting adoption, report finds",
+   "link": "https://www.ciodive.com/news/executives-get-more-ai-training-than-other-workers-hurting-adoption/875670/",
+   "source": "CIO Dive",
+   "tag": "AI",
+   "date": "2026-11-24T19:38:00+00:00"
+  },
+  {
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-24T18:30:42+00:00"
+  },
+  {
+   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+   "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "source": "TechCrunch",
+   "tag": "Cyber",
+   "date": "2026-11-24T18:02:59+00:00"
+  },
+  {
+   "title": "Arm strongarms site that hosts ad-free documentation and it may disappear",
+   "link": "https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925",
+   "source": "The Register",
+   "tag": "Enterprise systems",
+   "date": "2026-11-24T17:57:41+00:00"
+  },
+  {
+   "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+   "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+   "source": "TechCrunch",
+   "tag": "India",
+   "date": "2026-11-24T17:29:09+00:00"
+  },
+  {
+   "title": "Microsoft refreshes Copilot app search for users without an AI subscription",
+   "link": "https://www.theregister.com/personal-tech/2026/11/24/microsoft-refreshes-copilot-app-search-for-users-without-an-ai-subscription/5311895",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-24T17:00:00+00:00"
+  },
+  {
+   "title": "An AI coding agent, a browser, and a Mac tool found a financial firm's access key in under 6 minutes",
+   "link": "https://www.theregister.com/security/2026/11/24/an-ai-coding-agent-a-browser-and-a-mac-tool-found-a-financial-firms-access-key-in-under-6-minutes/5311922",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-24T17:00:00+00:00"
+  },
+  {
+   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+   "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-24T17:00:00+00:00"
+  },
+  {
+   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+   "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-24T16:46:00+00:00"
+  },
+  {
+   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+   "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "source": "TechCrunch",
+   "tag": "AI",
+   "date": "2026-11-24T16:10:00+00:00"
+  },
+  {
+   "title": "Microsoft brings serverless PostgreSQL into Fabric to bridge transactions and analytics",
+   "link": "https://www.theregister.com/databases/2026/11/24/microsoft-brings-serverless-postgresql-into-fabric-to-bridge-transactions-and-analytics/5311841",
+   "source": "The Register",
+   "tag": "Data",
+   "date": "2026-11-24T16:00:00+00:00"
+  },
+  {
+   "title": "Claude Ship puts AI at the helm of pull request approvals",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/24/claude-ship-puts-ai-at-the-helm-of-pull-request-approvals/5311883",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-24T14:29:00+00:00"
+  },
+  {
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "source": "Ars Technica",
+   "tag": "AI",
+   "date": "2026-11-24T12:30:05+00:00"
+  },
+  {
+   "title": "Experian’s AI strategy stresses visibility, cost control",
+   "link": "https://www.ciodive.com/news/experians-ai-strategy-stresses-visibility-cost-control/875564/",
+   "source": "CIO Dive",
+   "tag": "AI",
+   "date": "2026-11-24T12:00:00+00:00"
+  },
+  {
+   "title": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
+   "link": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-11-24T12:00:00+00:00"
+  },
+  {
+   "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-24T11:32:41+00:00"
+  },
+  {
+   "title": "Less Code, More Context: How AI Is Reshaping the Developer Role",
+   "link": "https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/",
+   "source": "SAP News",
+   "tag": "AI",
+   "date": "2026-11-24T11:15:00+00:00"
+  },
+  {
+   "title": "Data centers are getting their own natural gas power plants",
+   "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+   "source": "MIT Tech Review",
+   "tag": "Cloud",
+   "date": "2026-11-24T11:00:00+00:00"
+  },
   {
    "title": "Presentation: Inferencing for Enterprises",
    "link": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Enterprise systems",
    "date": "2026-11-24T11:00:00+00:00"
+  },
+  {
+   "title": "UK gov invests in defense startup making virtual training ground for AI",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-24T09:16:00+00:00"
   },
   {
    "title": "Where does AI actually sit in a manufacturing workflow?",
@@ -25,18 +208,11 @@
    "date": "2026-11-24T02:30:00+00:00"
   },
   {
-   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-   "source": "TechCrunch",
+   "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+   "source": "The Register",
    "tag": "AI",
-   "date": "2026-11-23T22:05:50+00:00"
-  },
-  {
-   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-23T22:02:05+00:00"
+   "date": "2026-11-23T21:17:15+00:00"
   },
   {
    "title": "Williams-Sonoma seeks efficiencies, personalization through AI",
@@ -53,13 +229,6 @@
    "date": "2026-11-23T20:00:00+00:00"
   },
   {
-   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-   "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-23T19:14:46+00:00"
-  },
-  {
    "title": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures",
    "link": "https://www.infoq.com/news/2026/11/linkedin-view-agnostic-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
@@ -67,11 +236,11 @@
    "date": "2026-11-23T18:00:00+00:00"
   },
   {
-   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-   "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-23T17:14:23+00:00"
+   "title": "Bulgaria evicts cyber snoops who lurked inside government networks for 5 years",
+   "link": "https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-23T17:01:00+00:00"
   },
   {
    "title": "Java News Roundup: Java4Shell, Oracle CSPUs, OpenJDK, Azul Payara, BellSoft, Helidon, LangChain4j",
@@ -81,6 +250,13 @@
    "date": "2026-11-23T15:30:00+00:00"
   },
   {
+   "title": "British retailer Next downplays data breach at tech supplier",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-23T15:09:00+00:00"
+  },
+  {
    "title": "Netflix at QConSF 2026: Retrofitting the SDLC for AI Coding Agents",
    "link": "https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
@@ -88,11 +264,11 @@
    "date": "2026-11-23T14:58:00+00:00"
   },
   {
-   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-   "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-   "source": "TechCrunch",
-   "tag": "AI",
-   "date": "2026-11-23T14:43:03+00:00"
+   "title": "Norway links energy firm cyberattacks to critical Azure API Management flaw",
+   "link": "https://www.theregister.com/security/2026/11/23/norway-links-energy-firm-cyberattacks-to-critical-azure-api-management-flaw/5311598",
+   "source": "The Register",
+   "tag": "Cloud",
+   "date": "2026-11-23T12:29:00+00:00"
   },
   {
    "title": "How SAP Store Certification Turns into Customer Trust for Vertex",
@@ -102,18 +278,25 @@
    "date": "2026-11-23T12:15:00+00:00"
   },
   {
-   "title": "Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India'”",
+   "title": "Capita CEO leaves following pensions contract disaster",
+   "link": "https://www.theregister.com/public-sector/2026/11/23/capita-ceo-leaves-following-pensions-contract-disaster/5311585",
+   "source": "The Register",
+   "tag": "Sourcing",
+   "date": "2026-11-23T11:11:25+00:00"
+  },
+  {
+   "title": "Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India’”",
    "link": "https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/",
    "source": "SAP News",
    "tag": "India",
    "date": "2026-11-23T05:15:00+00:00"
   },
   {
-   "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
-   "link": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-11-22T06:30:00+00:00"
+   "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+   "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+   "source": "The Register",
+   "tag": "Cloud",
+   "date": "2026-11-21T14:35:00+00:00"
   },
   {
    "title": "From ideas to impact: Powering digital and AI transformation in life sciences",
@@ -221,20 +404,6 @@
    "date": "2026-11-19T02:48:41+00:00"
   },
   {
-   "title": "The AI Hype Index: AI is everywhere",
-   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-11-18T14:42:44+00:00"
-  },
-  {
-   "title": "The Download: AI learns to smell and hydropower struggles",
-   "link": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-11-18T13:10:00+00:00"
-  },
-  {
    "title": "SAP Recognized as a Customers’ Choice in the 2026 Gartner Peer Insights™ Voice of the Customer for Talent Acquisition (Recruiting) Suites",
    "link": "https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/",
    "source": "SAP News",
@@ -261,48 +430,6 @@
    "source": "SAP News",
    "tag": "Enterprise systems",
    "date": "2026-11-17T12:15:00+00:00"
-  },
-  {
-   "title": "Thomas Saueressig to Leave SAP Executive Board",
-   "link": "https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-11-17T08:00:00+00:00"
-  },
-  {
-   "title": "Why enterprise AI success takes more than deploying a few AI agents",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/why-enterprise-ai-success-takes-more-than-deploying-a-few-ai-agents/135907820",
-   "source": "ET CIO",
-   "tag": "Enterprise systems",
-   "date": "2026-11-17T02:36:54+00:00"
-  },
-  {
-   "title": "SAP Completes Acquisition of TechWolf",
-   "link": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-11-16T15:00:00+00:00"
-  },
-  {
-   "title": "Order Management Built Straight into SAP",
-   "link": "https://news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream/",
-   "source": "SAP News",
-   "tag": "Enterprise systems",
-   "date": "2026-11-16T12:15:00+00:00"
-  },
-  {
-   "title": "India’s Rise: From Promise to Platform for Global Growth",
-   "link": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth/",
-   "source": "SAP News",
-   "tag": "India",
-   "date": "2026-11-16T05:15:00+00:00"
-  },
-  {
-   "title": "AI solved the scarcity of code. What scarcity comes next?",
-   "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/ai-solved-the-scarcity-of-code-what-scarcity-comes-next/135869910",
-   "source": "ET CIO",
-   "tag": "AI",
-   "date": "2026-11-16T02:30:00+00:00"
   }
  ]
 }
