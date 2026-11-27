@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:44:22.170386+00:00",
+ "generated_at": "2026-11-27T09:50:46.120778+00:00",
  "count": 60,
  "tags": [
   "AI",
@@ -11,6 +11,62 @@
   "Sourcing"
  ],
  "items": [
+  {
+   "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+   "link": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-11-27T06:58:00+00:00"
+  },
+  {
+   "title": "AWS adds virtual iPhones to its cloud",
+   "link": "https://www.theregister.com/off-prem/2026/11/27/aws-adds-virtual-iphones-to-its-cloud/5312457",
+   "source": "The Register",
+   "tag": "Cloud",
+   "date": "2026-11-27T05:13:32+00:00"
+  },
+  {
+   "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+   "link": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+   "source": "The Register",
+   "tag": "AI",
+   "date": "2026-11-26T19:04:00+00:00"
+  },
+  {
+   "title": "'Significant number of customer records' pwned in Flight Centre Travel Group breach",
+   "link": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-26T15:29:00+00:00"
+  },
+  {
+   "title": "Rackspace pulls plug on Spot cloud service after security breach",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-26T14:45:00+00:00"
+  },
+  {
+   "title": "Wyoming uranium operation shuts down after cyberattack",
+   "link": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
+   "source": "The Register",
+   "tag": "Cyber",
+   "date": "2026-11-26T14:02:00+00:00"
+  },
+  {
+   "title": "SAP and planqc Bring Quantum Computing into Business Processes",
+   "link": "https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/",
+   "source": "SAP News",
+   "tag": "Enterprise systems",
+   "date": "2026-11-26T12:30:00+00:00"
+  },
+  {
+   "title": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+   "link": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "source": "InfoQ",
+   "tag": "AI",
+   "date": "2026-11-26T11:00:00+00:00"
+  },
   {
    "title": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
    "link": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
@@ -124,7 +180,7 @@
    "date": "2026-11-25T16:20:00+00:00"
   },
   {
-   "title": "GitHub Ditches CSS-in-JS for CSS Modules, Reports 55% Faster SSR After Three-Year Migration",
+   "title": "GitHub Ditches CSS-in-JS for CSS Modules, Reports 55% Faster SSR after Three-Year Migration",
    "link": "https://www.infoq.com/news/2026/11/github-css-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Cloud",
@@ -187,7 +243,7 @@
    "date": "2026-11-25T09:30:00+00:00"
   },
   {
-   "title": "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15",
+   "title": "AWS Lambda Doubles Its Timeout to 30 Minutes after Eight Years at 15",
    "link": "https://www.infoq.com/news/2026/11/aws-lambda-30-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "source": "InfoQ",
    "tag": "Cloud",
@@ -264,20 +320,6 @@
    "date": "2026-11-24T12:00:00+00:00"
   },
   {
-   "title": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
-   "link": "https://www.infoq.com/news/2026/11/cncf-vm-ai-workloads/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "AI",
-   "date": "2026-11-24T12:00:00+00:00"
-  },
-  {
-   "title": "European Commission confirms personal data stolen in AI-assisted cyberattack",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/24/european-commission-confirms-personal-data-stolen-in-ai-assisted-cyberattack/5311834",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-11-24T11:32:41+00:00"
-  },
-  {
    "title": "Less Code, More Context: How AI Is Reshaping the Developer Role",
    "link": "https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/",
    "source": "SAP News",
@@ -292,20 +334,6 @@
    "date": "2026-11-24T11:00:00+00:00"
   },
   {
-   "title": "Presentation: Inferencing for Enterprises",
-   "link": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "source": "InfoQ",
-   "tag": "Enterprise systems",
-   "date": "2026-11-24T11:00:00+00:00"
-  },
-  {
-   "title": "UK gov invests in defense startup making virtual training ground for AI",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/24/uk-gov-invests-in-defense-startup-making-virtual-training-ground-for-ai/5311707",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-24T09:16:00+00:00"
-  },
-  {
    "title": "Where does AI actually sit in a manufacturing workflow?",
    "link": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/where-does-ai-actually-sit-in-a-manufacturing-workflow/136117497",
    "source": "ET CIO",
@@ -313,32 +341,11 @@
    "date": "2026-11-24T02:30:00+00:00"
   },
   {
-   "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
-   "source": "The Register",
-   "tag": "AI",
-   "date": "2026-11-23T21:17:15+00:00"
-  },
-  {
    "title": "Williams-Sonoma seeks efficiencies, personalization through AI",
    "link": "https://www.ciodive.com/news/williams-sonoma-proprietary-ai-stack-/875551/",
    "source": "CIO Dive",
    "tag": "AI",
    "date": "2026-11-23T21:13:44+00:00"
-  },
-  {
-   "title": "Bulgaria evicts cyber snoops who lurked inside government networks for 5 years",
-   "link": "https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-11-23T17:01:00+00:00"
-  },
-  {
-   "title": "British retailer Next downplays data breach at tech supplier",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684",
-   "source": "The Register",
-   "tag": "Cyber",
-   "date": "2026-11-23T15:09:00+00:00"
   },
   {
    "title": "How SAP Store Certification Turns into Customer Trust for Vertex",
@@ -374,13 +381,6 @@
    "source": "Ars Technica",
    "tag": "AI",
    "date": "2026-11-20T20:59:08+00:00"
-  },
-  {
-   "title": "The most misunderstood graph in AI just got a major update",
-   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-   "source": "MIT Tech Review",
-   "tag": "AI",
-   "date": "2026-11-20T18:15:15+00:00"
   },
   {
    "title": "How SAP and Microsoft Innovate Together to Deliver AI Value for the Enterprise",
